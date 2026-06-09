@@ -1,0 +1,20 @@
+{
+  "fileSettings": "[]",
+  "bookmarks": "{\"search\":[],\"task-list\":[],\"refile\":[]}",
+  "fontSize": "Large",
+  "bulletStyle": "Fancy",
+  "editorDescriptionHeightValue": "8",
+  "agendaStartOnWeekday": "1",
+  "shouldStoreSettingsInSyncBackend": true,
+  "customKeybindings": "{}",
+  "shouldLiveSync": true,
+  "showDeadlineDisplay": false,
+  "shouldSyncOnBecomingVisibile": true,
+  "colorScheme": "OS",
+  "theme": "Solarized",
+  "captureTemplates": "[]",
+  "agendaTimeframe": "Week",
+  "orgHabitShowAllToday": false,
+  "orgHabitPrecedingDays": 21,
+  "orgHabitFollowingDays": 7
+}
