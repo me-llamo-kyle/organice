@@ -2,6 +2,7 @@
 Extend the file from here.
 ** Organice
 *** DONE Install
+*** TODO Set up GTD
 ** TODO Neomacs
 ** TODO Asahi Linux
 
