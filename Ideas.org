@@ -1,5 +1,5 @@
 * Look into
-Extend the file from here.
+
 ** TODO Organice
 *** DONE Install
 *** TODO Pull GitLab notes repo onto laptop
