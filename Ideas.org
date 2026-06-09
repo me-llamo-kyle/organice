@@ -5,10 +5,10 @@
 ** TODO Pull GitLab notes repo onto laptop
 ** TODO Set up GTD
 * TODO Neomacs
-** TODO Asahi Linux
+* TODO Asahi Linux
 
-*** TODO With Nix?
-** TODO Custom Emacs config
+** TODO With Nix?
+* TODO Custom Emacs config
 https://systemcrafters.net/emacs-from-scratch/
 ** TODO Proton (mail, drive, cal, etc.)
 ** TODO Car - Plug-in hybrid
