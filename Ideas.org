@@ -4,7 +4,7 @@
 ** DONE Install
 ** TODO Pull GitLab notes repo onto laptop
 ** TODO Set up GTD
-** TODO Neomacs
+* TODO Neomacs
 ** TODO Asahi Linux
 
 *** TODO With Nix?
