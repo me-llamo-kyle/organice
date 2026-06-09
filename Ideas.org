@@ -10,8 +10,8 @@
 ** TODO With Nix?
 * TODO Custom Emacs config
 https://systemcrafters.net/emacs-from-scratch/
-** TODO Proton (mail, drive, cal, etc.)
-** TODO Car - Plug-in hybrid
+* TODO Proton (mail, drive, cal, etc.)
+* TODO Car - Plug-in hybrid
 - Subaru
 - Jeep
 - Mini https://www.carmagazine.co.uk/car-reviews/mini/countryman-hybrid/
