@@ -1,6 +1,7 @@
 * Look into
 Extend the file from here.
 ** DONE Organice
+** DONE Install
 ** TODO Neomacs
 ** TODO Asahi Linux
 
