@@ -6,3 +6,4 @@ Extend the file from here.
 
 *** TODO With Nix?
 ** TODO Custom Emacs config
+https://systemcrafters.net/emacs-from-scratch/
