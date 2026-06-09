@@ -3,6 +3,7 @@
   "bookmarks": "{\"search\":[],\"task-list\":[],\"refile\":[]}",
   "fontSize": "Large",
   "bulletStyle": "Fancy",
+  "shouldTapTodoToAdvance": true,
   "editorDescriptionHeightValue": "8",
   "agendaStartOnWeekday": "1",
   "shouldStoreSettingsInSyncBackend": true,
