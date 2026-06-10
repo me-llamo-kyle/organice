@@ -5,7 +5,7 @@
 * TODO Neomacs
 * TODO Asahi Linux
 
-** TODO With Nix?
+** DONE With Nix?
 * TODO Custom Emacs config
 https://systemcrafters.net/emacs-from-scratch/
 * TODO Proton (mail, drive, cal, etc.)
