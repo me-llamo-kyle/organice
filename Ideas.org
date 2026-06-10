@@ -2,6 +2,7 @@
 ** DONE Install
 ** TODO Pull GitLab notes repo onto laptop
 ** TODO Look into WebDAV
+** TODO Fork for longevity
 * TODO GTD
 ** TODO Read da book
 * TODO Neomacs
