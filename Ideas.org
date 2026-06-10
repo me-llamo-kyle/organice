@@ -17,3 +17,4 @@ https://systemcrafters.net/emacs-from-scratch/
 - Jeep
 - Mini https://www.carmagazine.co.uk/car-reviews/mini/countryman-hybrid/
 * TODO Corporations are like human sacrifice
+* TODO Goose concert
