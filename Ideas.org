@@ -9,6 +9,8 @@
 
 ** DONE With Nix?
 ** TODO Get my flake over
+* TODO Zen Browser
+** https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/
 * TODO Custom Emacs config
 https://systemcrafters.net/emacs-from-scratch/
 * TODO Proton (mail, drive, cal, etc.)
