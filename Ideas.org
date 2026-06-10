@@ -2,6 +2,7 @@
 ** DONE Install
 ** TODO Pull GitLab notes repo onto laptop
 ** TODO Look into WebDAV
+* TODO GTD
 * TODO Neomacs
 * TODO Asahi Linux
 
