@@ -12,3 +12,4 @@
 * Wicked / Vmacs / ViMacs / ViMax / Evilmacs / Evilmax
 Emacs clone (preferably faster like Neomacs) with Vim keybindings by default
 Would make documentation easier for evil users
+* TODO 
