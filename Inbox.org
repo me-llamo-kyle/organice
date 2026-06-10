@@ -17,3 +17,4 @@ Would make documentation easier for evil users
 ** Flea tick heartworm
 ** Walking/running
 ** Meds
+** Meditation
