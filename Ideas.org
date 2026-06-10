@@ -5,7 +5,8 @@
 ** TODO Fork for longevity
 
 * TODO Learn Magit
-- https://www.youtube.com/watch?v=7ywEgcbaiys
+- [[https://www.youtube.com/watch?v=7ywEgcbaiys][Zaiste]]
+- [[https://www.youtube.com/watch?v=X_iX5US1_xE][DistroTube]]
 ** TODO Bypass NGGN restrictions on "cloud storage"? (Regular CLI git doesn't work either, at least with GitLab)
 
 * TODO GTD
