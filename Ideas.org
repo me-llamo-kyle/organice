@@ -3,21 +3,47 @@
 ** TODO Pull GitLab notes repo onto laptop
 ** TODO Look into WebDAV
 ** TODO Fork for longevity
+
+* TODO Learn Magit
+- https://www.youtube.com/watch?v=7ywEgcbaiys
+** TODO Bypass NGGN restrictions on "cloud storage"? (Regular CLI git works fine)
+
 * TODO GTD
 ** TODO Read da book
-* TODO Neomacs
-* TODO Asahi Linux
 
+* TODO Neomacs
+
+* TODO Asahi Linux
 ** DONE With Nix?
 ** TODO Get my flake over
+** TODO Guix?
+
 * TODO Zen Browser
-** https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/
+- https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/
+
 * TODO Custom Emacs config
-https://systemcrafters.net/emacs-from-scratch/
+- https://systemcrafters.net/emacs-from-scratch/
+- https://mint.westdri.ca/emacs/wb_new_tools
+
 * TODO Proton (mail, drive, cal, etc.)
+** DONE Sign up
+** TODO Filtering?
+** TODO Need subscription?
+
 * TODO Car - Plug-in hybrid
 - Subaru
 - Jeep
 - Mini https://www.carmagazine.co.uk/car-reviews/mini/countryman-hybrid/
-* TODO Corporations are like human sacrifice
+
+* Corporations are like human sacrifice
+Harming people in the name of some intangible idea (pleasing the gods/economy/shareholders)
+
 * Goose concert
+
+* ZSH Moonlander
+
+* iPhone keyboard case
+- [[https://www.clicks.tech/][Clicks]]
+- https://www.etsy.com/listing/4446053525/sliding-phone-keyboard-with-magsafe?gpla=1&gao=1&
+
+* Siesta schedule with new job?
