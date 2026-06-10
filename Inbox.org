@@ -1,0 +1,7 @@
+#+title: Inbox
+
+* Rigetti prep
+** Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
+** Talk - they'll want to see how you communicate with experimentalists/everyone
+** Whiteboard questions - kinda like qual exam
+** Read Rigetti's papers
