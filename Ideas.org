@@ -1,7 +1,7 @@
 * TODO Organice
 ** DONE Install
 ** TODO Pull GitLab notes repo onto laptop
-** TODO Set up GTD
+** TODO Look into WebDAV
 * TODO Neomacs
 * TODO Asahi Linux
 
