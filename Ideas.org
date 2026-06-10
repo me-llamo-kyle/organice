@@ -3,6 +3,7 @@
 ** TODO Pull GitLab notes repo onto laptop
 ** TODO Look into WebDAV
 * TODO GTD
+* TODO Read da book
 * TODO Neomacs
 * TODO Asahi Linux
 
