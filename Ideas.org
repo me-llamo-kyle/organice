@@ -6,7 +6,7 @@
 * TODO Asahi Linux
 
 ** DONE With Nix?
-** TODO 
+** TODO Get my flake over
 * TODO Custom Emacs config
 https://systemcrafters.net/emacs-from-scratch/
 * TODO Proton (mail, drive, cal, etc.)
