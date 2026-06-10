@@ -6,7 +6,7 @@
 
 * TODO Learn Magit
 - https://www.youtube.com/watch?v=7ywEgcbaiys
-** TODO Bypass NGGN restrictions on "cloud storage"? (Regular CLI git works fine)
+** TODO Bypass NGGN restrictions on "cloud storage"? (Regular CLI git doesn't work either, at least with GitLab)
 
 * TODO GTD
 ** TODO Read da book
