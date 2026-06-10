@@ -5,3 +5,6 @@
 ** Talk - they'll want to see how you communicate with experimentalists/everyone
 ** Whiteboard questions - kinda like qual exam
 ** Read Rigetti's papers
+
+* LLVM tutorial
+- https://llvm.org/docs/tutorial/index.html
