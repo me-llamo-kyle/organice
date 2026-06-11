@@ -19,3 +19,4 @@ Would make documentation easier for evil users
 ** Meds
 ** Meditation
 ** Getting into work at a decent time?
+* TODO Story about a snake oil salesman written in AI style
