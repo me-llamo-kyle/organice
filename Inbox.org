@@ -21,3 +21,4 @@ Would make documentation easier for evil users
 ** Getting into work at a decent time?
 * TODO Story about a snake oil salesman written in AI style
 "The Ultimate Test" (Turing test reference)
+* TODO Camping trip?
