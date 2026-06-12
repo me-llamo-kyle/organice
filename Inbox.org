@@ -22,3 +22,4 @@ Would make documentation easier for evil users
 * Story about a snake oil salesman written in AI style
 "The Ultimate Test" (Turing test reference)
 * TODO Camping trip?
+* TODO Rental car
