@@ -22,3 +22,8 @@ Would make documentation easier for evil users
 * TODO Camping trip?
 * TODO Rental car
 * TODO Board boochie
+* TODO [[https://www.orgroam.com/manual.html][Org Roam]]
+* TODO Set up Dirvish at home
+(dired +dirvish)
+* TODO Kaiser account setup
+Finish new member steps by signing out and back into [[kp.org]]
