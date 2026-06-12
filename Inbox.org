@@ -20,6 +20,7 @@ Would make documentation easier for evil users
 ** Watering plants
 ** CSA pickup
 ** CSA selection
+** Cleaning
 * TODO Camping trip?
 * TODO Rental car
 * TODO Board boochie
@@ -104,6 +105,8 @@ Harming people in the name of some intangible idea (pleasing the gods/economy/sh
 * Clear out bird's nest
 * Get new clothes
 * Get new workout clothes
+* Get new shoes
+* Get a haircut
 * Learn quantum gravity
 * Finish Lox
 * Get meds settled
@@ -122,7 +125,7 @@ Android
 * Get Emacs AI fully setup
 * Contribute to Neomacs
 * Find cool open source Lisp project to contribute to
-* Use different font for Org Mode (Xenon)
+* Use different font for Org Mode (Xenon)?
 * Practice typing speed
 * Presentations in Org Mode?
 * Org Mode GNU plot
@@ -135,3 +138,40 @@ Android
 * Transfer ADHD care to Kaiser
 * Eye doctor
 * Get new glasses
+* Do Anne's adventure cards
+* Date ideas
+* (Waiting) Profiling MPO sums
+Fuck it we're putting work related stuff into this idgaf
+* Look over / contribute to papers
+** Fix typo in paper appendix - $$V(1)^\dag V(0) \equiv L \cos(\Theta) R^\dag$$
+* Set up LaTeX previews in org mode
+* Practice guitar
+* Mess with Ableton
+* Get a bigger desk for office
+* Overhead office lights
+* Window AC unit for office
+* Office linux workstation
+* Clean up in office
+* Font design
+** Get "Thinking in Type" book
+* Decorate office
+** Space posters
+* Paperlike monitor?
+* Fix sink
+* Replace water filter
+* Figure out storage for Anne's bike
+* Get consistent climbing/workout schedule
+* Let Ramit teach me how to be rich
+* Train Asher
+** Sit pretty
+** With me
+* Prep ingredients/meals ahead of time
+* Better shoe rack situation
+* Record player power cable
+* Move away from Kindle
+* Move away from Spotify
+* De-Google/Big-Tech
+* Better closet/clothes storage situation
+* Cancel FOX Sports by Sunday
+* Get Asher fish oil
+* Keep in touch with the fam
