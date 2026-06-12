@@ -8,5 +8,5 @@ jobs:
           fetch-depth: 0
       - name: Push to GitLab
         run: |
-          git remote add gitlab https://me-llamo-kyle:${{ secrets.GITLAB_PAT }}@://gitlab.com/me-llamo-kyle/organice
+          git remote add gitlab https://me-llamo-kyle:${{ secrets.GITLAB_PAT }}@gitlab.com/me-llamo-kyle/organice
           git push gitlab main --force
