@@ -1,0 +1,12 @@
+on: [push]
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Push to GitLab
+        run: |
+          git remote add gitlab https://me-llamo-kyle:${{ secrets.GITLAB_PAT }}@://gitlab.com/me-llamo-kyle/organice
+          git push gitlab main --force
