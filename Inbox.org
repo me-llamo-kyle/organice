@@ -27,3 +27,68 @@ Would make documentation easier for evil users
 (dired +dirvish)
 * TODO Kaiser account setup
 Finish new member steps by signing out and back into [[kp.org]]
+* TODO Organice
+** DONE Install
+** TODO Pull GitLab notes repo onto laptop
+** DONE Set up GitHub mirror for work
+** TODO Look into WebDAV
+** TODO Fork for longevity
+* TODO [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]]
+** DONE 1
+** DONE 2
+** DONE 3
+** TODO 4
+** TODO 5
+** TODO 6
+** DONE 7
+** TODO 8
+** TODO 9
+** TODO 10
+** TODO 11
+** TODO 12
+** TODO 13
+** TODO 14
+** TODO 15
+** TODO 16
+** TODO 17
+** DONE 18
+** DONE 19
+** TODO 20
+** TODO 21
+** TODO 22
+** TODO 23
+** TODO 24
+** TODO 25
+** TODO 26
+** TODO 27
+** TODO 28
+* TODO GTD
+** TODO https://hamberg.no/gtd
+** TODO Read da book
+* TODO Neomacs
+* TODO Asahi Linux
+** DONE With Nix?
+** TODO Get my flake over
+* TODO Zen Browser
+- https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/
+
+* https://mint.westdri.ca/emacs/wb_new_tools
+* TODO Proton (mail, drive, cal, etc.)
+** DONE Sign up
+** TODO Filtering?
+** TODO Need subscription?
+* TODO Car - Plug-in hybrid
+- Subaru
+- Jeep
+- Mini https://www.carmagazine.co.uk/car-reviews/mini/countryman-hybrid/
+
+* Writing
+** Corporations are like human sacrifice
+Harming people in the name of some intangible idea (pleasing the gods/economy/shareholders)
+* Goose concert
+* ZSH Moonlander
+* iPhone keyboard case
+- [[https://www.clicks.tech/][Clicks]]
+
+* Siesta schedule with new job?
+* Read Categories for the Working Mathematician
