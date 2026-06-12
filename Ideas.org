@@ -1,24 +1,18 @@
 * TODO Organice
 ** DONE Install
 ** TODO Pull GitLab notes repo onto laptop
+** DONE Set up GitHub mirror for work
 ** TODO Look into WebDAV
 ** TODO Fork for longevity
-
 * TODO Learn Magit
 - [[https://www.youtube.com/watch?v=7ywEgcbaiys][Zaiste]]
 - [[https://www.youtube.com/watch?v=X_iX5US1_xE][DistroTube]]
-** TODO Bypass NGGN restrictions on "cloud storage"? (Regular CLI git doesn't work either, at least with GitLab)
-
 * TODO GTD
 ** TODO Read da book
-
 * TODO Neomacs
-
 * TODO Asahi Linux
 ** DONE With Nix?
 ** TODO Get my flake over
-** TODO Guix?
-
 * TODO Zen Browser
 - https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/
 
@@ -30,7 +24,6 @@
 ** DONE Sign up
 ** TODO Filtering?
 ** TODO Need subscription?
-
 * TODO Car - Plug-in hybrid
 - Subaru
 - Jeep
@@ -38,11 +31,8 @@
 
 * Corporations are like human sacrifice
 Harming people in the name of some intangible idea (pleasing the gods/economy/shareholders)
-
 * Goose concert
-
 * ZSH Moonlander
-
 * iPhone keyboard case
 - [[https://www.clicks.tech/][Clicks]]
 - https://www.etsy.com/listing/4446053525/sliding-phone-keyboard-with-magsafe?gpla=1&gao=1&
