@@ -17,8 +17,9 @@ Would make documentation easier for evil users
 ** Meds
 ** Meditation
 ** Getting into work at a decent time?
-* Story about a snake oil salesman written in AI style
-"The Ultimate Test" (Turing test reference)
+** Watering plants
+** CSA pickup
+** CSA selection
 * TODO Camping trip?
 * TODO Rental car
 * TODO Board boochie
@@ -85,6 +86,8 @@ Finish new member steps by signing out and back into [[kp.org]]
 * Writing
 ** Corporations are like human sacrifice
 Harming people in the name of some intangible idea (pleasing the gods/economy/shareholders)
+** Story about a snake oil salesman written in AI style
+"The Ultimate Test" (Turing test reference)
 * Goose concert
 * ZSH Moonlander
 * iPhone keyboard case
@@ -92,3 +95,38 @@ Harming people in the name of some intangible idea (pleasing the gods/economy/sh
 
 * Siesta schedule with new job?
 * Read Categories for the Working Mathematician
+* Bring kitchen stuff up from basement
+* Go through pile in basement
+* Set up chain lock for shed
+* Move the hostas
+* Move the tree
+* Set up Asahi
+* Clear out bird's nest
+* Get new clothes
+* Get new workout clothes
+* Learn quantum gravity
+* Finish Lox
+* Get meds settled
+Hopefully Concerta is a good fit
+* Does organice support an agenda/calendar? Or use Proton Calendar?
+* Add trip details to calendar
+* Figure out PC freezing
+* Asher's vet appt (Gcal)
+* Dumbphone (with physical keys)
+Android
+* Turn off word/spelling suggestions in Org mode
+* Better breakfast
+* Soylent / Huel / homemade
+* Preserve lemons
+* Small stainless steel frying pan
+* Get Emacs AI fully setup
+* Contribute to Neomacs
+* Find cool open source Lisp project to contribute to
+* Use different font for Org Mode (Xenon)
+* Practice typing speed
+* Presentations in Org Mode?
+* Org Mode GNU plot
+* What other cool org mode shit is there?
+* Hang out with Sam (+ Serge)
+* Hang out with Seth?
+* Coworking space for Rigetti bois
