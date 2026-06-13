@@ -177,3 +177,4 @@ Fuck it we're putting work related stuff into this idgaf
 * Keep in touch with the fam
 * TODO Beautiful racket
 * Chesapeake Shakespeare company A Christmas Carol
+* ZF arithmetic in lisp
