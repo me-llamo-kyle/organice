@@ -1,2 +1,6 @@
 #+title: References
 
+* GTD book
+* [[https://hamberg.no/gtd][GTD in 15 minutes]]
+* [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Implementing GTD in Org Mode]]
+* [[https://organice.200ok.ch/sample][Organice sample/tutorial]]

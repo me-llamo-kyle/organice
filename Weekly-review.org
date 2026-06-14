@@ -6,6 +6,10 @@
 ** Make sure each next action is actually something you want or need to do if you have time during the coming week - otherwise move to Someday or delete
 ** Look through Someday list to see if anything should be moved to Projects/Actions
 
+* Principles
+** Make projects/actions as small as possible
+- Actions should be the smallest physical action that can be done to move the project along
+- Projects don't need to be perfect, you can always make an "Improve X" project later
 * Trigger list
 Reminders of any "open loops" that may not have been captured yet
 ** Anne plans

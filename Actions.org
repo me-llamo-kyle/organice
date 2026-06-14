@@ -1,2 +1,126 @@
 #+title: Actions
 
+* Computer (Home)
+** TODO Find Rigetti papers to read
+** TODO Start first LLVM tutorial
+- https://llvm.org/docs/tutorial/index.html
+** TODO Look at Organice's habit tracker tutorial again
+*** TODO Then figure out how to use it in regular org mode
+** TODO Get Iceland dates into personal calendar/brain
+*** TODO Book rental car for Iceland
+*** TODO Board boochie for Iceland
+** TODO [[https://www.orgroam.com/manual.html][Org Roam]]
+** TODO Schedule doctor's appt
+** TODO Schedule eye exam
+** TODO Look into transferring meds
+** TODO Look into ADHD treatment through Kaiser
+- Apparently it's not so straightforward
+** [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]] [6/28]
+*** DONE 1
+*** DONE 2
+*** DONE 3
+*** TODO 4
+*** TODO 5
+*** TODO 6
+*** DONE 7
+*** TODO 8
+*** TODO 9
+*** TODO 10
+*** TODO 11
+*** TODO 12
+*** TODO 13
+*** TODO 14
+*** TODO 15
+*** TODO 16
+*** TODO 17
+*** DONE 18
+*** DONE 19
+*** TODO 20
+*** TODO 21
+*** TODO 22
+*** TODO 23
+*** TODO 24
+*** TODO 25
+*** TODO 26
+*** TODO 27
+*** TODO 28
+
+** TODO Organice tutorial - search/todo list, tags, agenda, capture templates
+** TODO Find org capture/agenda tutorials
+** TODO Bring my Nix flake over to Asahi
+** TODO Install Zen Browser
+*** TODO [[https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/][With idle tab sweeper]]
+*** TODO With 1Password
+** TODO Figure out message filtering for Proton Mail
+** TODO Schedule haircut
+** TODO Recall state of cLox
+** TODO Turn off word suggestions in org/text modes
+** TODO Read tutorial/configuration for gptel
+** TODO Find time in schedule for a date night/adventure card
+** TODO Set up repo for Doom config
+** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode
+** TODO Find good time in schedule for regular climbing/workout
+** TODO Find/order power cable for record player
+** TODO Install Racket for BR
+** TODO Make/find "set" object/struct in zf.lisp
+Abstract interface enabling set operations:
+- [ ] Test membership
+- [ ] Add/remove element
+- [ ] Union
+- [ ] Intersection
+- [ ] Difference
+- [ ] Symmetric difference (XOR)
+Should allow things like sets containing themselves / sets containing everything
+** TODO Find org journal tutorial
+
+* Work
+** Read through circuitizer papers
+** Fix typo in dynamics appendix
+** Make new branch for complete_subspace
+** Assign complete_subspace ticket to myself
+** Make new branch for extend_subspace
+** Assign extend_subspace ticket to myself
+** (After other two are done) Make branch for subspace error metric
+** Assign subspace error metric ticket to myself
+** Check for Aires MR review "requests"
+** Find comment about how to improve orthonormalization of MPSes/ask Andrew about it
+* Home
+** TODO Put away clean kitchen stuff
+** TODO Bring up last of kitchen stuff from basement
+** TODO Go through basement pile by laundry
+** TODO Move tools into tool cabinet
+** TODO Look up why PC might be freezing
+** TODO Preserve lemons
+** TODO Look up how to fix sink
+** TODO Look for water filter replacements (probably in basement somewhere)
+** TODO Look up storage options for Anne's bike
+** TODO Read "Big Vegan Flavor" for ingredient prep ideas
+** TODO Bathe Ms. Puppy
+* Anne
+** TODO Figure out where/when to move hostas
+** TODO Figure out where/when/if to move tree
+** TODO Figure out where/when to plant Jersey Tea bush
+* Yard/Garden
+** TODO Put chain lock on shed
+** TODO Clear out nest in light fixture
+** TODO Spray for ticks
+** TODO Spray pachysandra
+* Going out/Shopping
+** Groceries
+** Target
+** Howl
+*** TODO Fish oil
+*** TODO Teeferpaste
+** Home Depot
+*** Hammer drill
+*** Impact driver
+*** Masonry drill bits
+*** Masonry screws
+* Anywhere/Phone
+** DONE Message the bois about camping trip
+** TODO Read GTD book
+** TODO Ask if Sam/Serge/anyone want to go to concert
+* Reading
+** GTD book
+** Joy of Abstraction
+** I Will Teach You To Be Rich

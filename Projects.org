@@ -1,2 +1,72 @@
 #+title: Projects
 
+* PROJ Rigetti prep
+** Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
+** Talk - they'll want to see how you communicate with experimentalists/everyone
+** Whiteboard questions - kinda like qual exam
+** Read Rigetti's papers
+* PROJ LLVM tutorial
+- https://llvm.org/docs/tutorial/index.html
+* PROJ Set up habit tracker
+** Brushing Asher's teeth
+** Flea tick heartworm
+** Walking/running
+** Meds
+** Meditation
+** Getting into work at a decent time?
+** Waking up at a good time
+** Watering plants
+** CSA pickup
+** CSA selection
+** Cleaning
+** Org journal
+** Keep in touch with important people
+*** Mom & Pops
+*** Droob
+*** Sambert
+** GTD weekly review
+*** Touch base with Anne about her schedule for the week
+* PROJ Plan camping trip
+* PROJ Iceland prep
+* PROJ Org Mode / GTD improvements
+* PROJ Doctor appts
+* PROJ GTD
+** TODO [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Fancy Org Mode Setup]]
+* PROJ Asahi Linux Setup
+* PROJ Proton
+* PROJ Goose concert
+* PROJ Kitchen setup
+* PROJ Organize tools
+* PROJ Bird's nest in light fixture
+* PROJ Gardening
+** TODO Transplant hostas
+** TODO Decide where to put tree
+** TODO Plant Jersey Tea bush
+* PROJ Crafting Interpreters
+* PROJ Fix PC freezing issue
+* PROJ Emacs AI setup
+* PROJ Date nights/ideas
+** Adventure cards
+* PROJ Circuitizer papers
+* PROJ Learn category theory
+** Finish Joy of Abstraction
+** Get Categories for the Working Mathematician
+* PROJ Fix sink
+* PROJ Storage for Anne's bike
+* PROJ Meal/ingredient prep
+* PROJ Beautiful Racket
+* PROJ CL ZF arithmetic
+* PROJ Hang plant shelf & coffee bag
+* PROJ Org Journal
+* PROJ complete_subspace
+Add an eigenstate whenever there's an avoided crossing out of the subspace
+Or just "track" initial subspace
+* PROJ extend_subspace
+Combine subspaces at adjacent timepoints
+Can use derived error metric to determine how good the subspace approximation is & adaptively extend
+Might need to look into better method for orthonormalizing MPSes
+* PROJ Subspace error metric
+Determines error from using time dependent subspace
+* PROJ Incorporate calendar/agenda into GTD
+** Learn about org agenda - better than using a separate calendar app
+Org mode creator: "Tasks/appointments should be created in the same place notes are taken."
