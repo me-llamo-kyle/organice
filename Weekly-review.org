@@ -1,0 +1,15 @@
+#+title: Weekly Review
+
+* Steps
+** Make sure each project has at least one next action
+** Add events to calendar iff they MUST be done on/by that date - hard deadlines only
+** Make sure each next action is actually something you want or need to do if you have time during the coming week - otherwise move to Someday or delete
+** Look through Someday list to see if anything should be moved to Projects/Actions
+
+* Trigger list
+Reminders of any "open loops" that may not have been captured yet
+** Anne plans
+** Cleaning
+** Work projects
+** Meals
+** Email

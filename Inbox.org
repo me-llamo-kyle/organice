@@ -65,8 +65,10 @@ Finish new member steps by signing out and back into [[kp.org]]
 ** TODO 27
 ** TODO 28
 * TODO GTD
-** TODO https://hamberg.no/gtd
+** DONE https://hamberg.no/gtd
 ** TODO Read da book
+** TODO Is there an org mode / organice setup I can steal?
+Do I want to do that?
 * TODO Neomacs
 * TODO Asahi Linux
 ** DONE With Nix?
@@ -178,3 +180,14 @@ Fuck it we're putting work related stuff into this idgaf
 * TODO Beautiful racket
 * Chesapeake Shakespeare company A Christmas Carol
 * ZF arithmetic in lisp
+* DONE Get projector
+https://ivankyo.com/products/vankyo-performance-h500r-roku-tv-smart-projector
+* Get stuff to drill into brick
+** Hammer drill
+** Impact driver
+** Masonry drill bits
+** Masonry screws
+** Eye glasses + mask - lots of dust
+* Hang shelf above chimney/projector space
+* Do some of that MPI stuff
+* Learn you a Haskell
