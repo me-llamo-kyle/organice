@@ -71,6 +71,8 @@ Abstract interface enabling set operations:
 - [ ] Difference
 - [ ] Symmetric difference (XOR)
 Should allow things like sets containing themselves / sets containing everything
+** TODO Make custom "lambda" object/struct for lambda.lisp
+Use macros for more flexibility with function inputs - should be easily able to do things like PLUS * PLUS and end up with a 4-arity function
 ** TODO Find org journal tutorial
 
 * Work
