@@ -66,9 +66,10 @@ Finish new member steps by signing out and back into [[kp.org]]
 ** TODO 28
 * TODO GTD
 ** DONE https://hamberg.no/gtd
+** TODO https://desmondrivet.com/2023/12/05/gtd-org-mode
+** TODO Organice tutorial - search/todo list, tags, agenda, capture templates
+** TODO Org capture/agenda tutorials
 ** TODO Read da book
-** TODO Is there an org mode / organice setup I can steal?
-Do I want to do that?
 * TODO Neomacs
 * TODO Asahi Linux
 ** DONE With Nix?
