@@ -125,7 +125,7 @@ Use macros for more flexibility with function inputs - should be easily able to 
 *** TODO Canned tomatoes
 *** TODO My yogurt
 *** TODO Coconut milk
-*** TODO Leeks
+*** DONE Leeks
 *** TODO Shrooms
 *** TODO Pasta
 *** TODO Frozen berries
