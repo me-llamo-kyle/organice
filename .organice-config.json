@@ -14,7 +14,7 @@
   "colorScheme": "Dark",
   "theme": "Solarized",
   "captureTemplates": "[]",
-  "agendaTimeframe": "Day",
+  "agendaTimeframe": "Month",
   "orgHabitShowAllToday": false,
   "orgHabitPrecedingDays": 21,
   "orgHabitFollowingDays": 7
