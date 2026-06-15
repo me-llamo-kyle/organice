@@ -2,3 +2,6 @@
 
 * New Strokes album - late June
 * Smash bros tournament in the park
+* Check out Parinfer
+Better than lispy/paredit? It looks like it correctly handles commenting out lines
+* Plan camping trip <2026-06-17 Wed>

@@ -73,3 +73,8 @@ May need to relate heuristic subspace error metric to actual fidelity
 Right now we use MGS with IterCompress to approximate linear combinations. I made some comments on how to do that better
 * Make project_unitary True by default
 This could be feasible once complete_subspace is implemented
+* RoninTDVP
+Would this just work?
+* 2-site/0-site ExcitedStateDMRG
+* DMRG-3S subspace expansion
+Could be used for all algorithms
