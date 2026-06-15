@@ -129,7 +129,7 @@ Use macros for more flexibility with function inputs - should be easily able to 
 *** DONE Shrooms
 *** TODO Pasta
 *** TODO Frozen berries
-*** TODO Chocolate chips
+*** DONE Chocolate chips
 *** TODO Dog food
 *** TODO Paper towels
 ** Target
