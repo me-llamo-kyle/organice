@@ -120,7 +120,7 @@ Use macros for more flexibility with function inputs - should be easily able to 
 *** DONE Arugala
 *** DONE Hummus
 *** DONE Tofu
-*** TODO Honey
+*** DONE Honey
 *** TODO Chickpeas
 *** TODO Canned tomatoes
 *** TODO My yogurt
