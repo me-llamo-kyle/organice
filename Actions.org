@@ -113,7 +113,7 @@ Use macros for more flexibility with function inputs - should be easily able to 
 ** TODO Spray pachysandra
 * Going out/Shopping
 ** Groceries
-*** TODO Berries
+*** DONE Berries
 *** TODO PB
 *** TODO Brocolli
 *** TODO Sweet potatoes
