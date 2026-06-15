@@ -114,7 +114,7 @@ Use macros for more flexibility with function inputs - should be easily able to 
 * Going out/Shopping
 ** Groceries
 *** DONE Berries
-*** TODO PB
+*** DONE PB
 *** DONE Brocolli
 *** DONE Sweet potatoes
 *** DONE Arugala
@@ -122,16 +122,16 @@ Use macros for more flexibility with function inputs - should be easily able to 
 *** DONE Tofu
 *** DONE Honey
 *** DONE Chickpeas
-*** TODO Canned tomatoes
-*** TODO My yogurt
-*** TODO Coconut milk
+*** DONE Canned tomatoes
+*** DONE My yogurt
+*** DONE Coconut milk
 *** DONE Leeks
 *** DONE Shrooms
-*** TODO Pasta
-*** TODO Frozen berries
+*** DONE Pasta
+*** DONE Frozen berries
 *** DONE Chocolate chips
-*** TODO Dog food
-*** TODO Paper towels
+*** DONE Dog food
+*** DONE Paper towels
 ** Target
 ** Howl
 *** TODO Fish oil
