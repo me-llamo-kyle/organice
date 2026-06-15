@@ -89,7 +89,7 @@ Use macros for more flexibility with function inputs - should be easily able to 
 ** DONE Figure out better dual monitor setup
 ** DONE Make ticket for RoninTDVP
 ** DONE Make ticket for DMRG-3S
-** TODO 
+** TODO Steal Shriya's standing desk (if she's gone)
 * Home
 ** TODO Put away clean kitchen stuff
 ** TODO Bring up last of kitchen stuff from basement
