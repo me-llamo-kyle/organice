@@ -116,7 +116,7 @@ Use macros for more flexibility with function inputs - should be easily able to 
 *** DONE Berries
 *** TODO PB
 *** DONE Brocolli
-*** TODO Sweet potatoes
+*** DONE Sweet potatoes
 *** TODO Arugala
 *** TODO Hummus
 *** TODO Tofu
