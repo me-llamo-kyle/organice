@@ -21,3 +21,4 @@ These chairs/style require an adjustment period
 Maybe using Org Roam
 * Break up [[file:Projects.org::*Org Mode / GTD improvements][massive projects]]
 * Concerta sucks?
+Get GTD in a good place then try going raw
