@@ -20,3 +20,4 @@ These chairs/style require an adjustment period
 * Take notes on [[file:Actions.org::*\[\[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj\]\[Zaiste Doomcasts\]\]][Zaiste Doomcasts]]
 Maybe using Org Roam
 * Break up [[file:Projects.org::*Org Mode / GTD improvements][massive projects]]
+* Concerta sucks?
