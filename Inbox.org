@@ -6,4 +6,4 @@
 Better than lispy/paredit? It looks like it correctly handles commenting out lines
 * Plan camping trip <2026-06-17 Wed>
 * Cancel Fox One
-  DEADLINE: <2026-06-15 Mon>
+  DEADLINE: <2026-07-15 Wed>
