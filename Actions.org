@@ -1,95 +1,6 @@
 #+title: Actions
 
-* Computer (Home)
-** TODO Find Rigetti papers to read
-** TODO Start first LLVM tutorial
-- https://llvm.org/docs/tutorial/index.html
-** TODO Look at Organice's habit tracker tutorial again
-*** TODO Then figure out how to use it in regular org mode
-** TODO Get Iceland dates into personal calendar/brain
-*** TODO Book rental car for Iceland
-*** TODO Board boochie for Iceland
-** TODO [[https://www.orgroam.com/manual.html][Org Roam]]
-** TODO Schedule doctor's appt
-** TODO Schedule eye exam
-** TODO Look into transferring meds
-** TODO Look into ADHD treatment through Kaiser
-- Apparently it's not so straightforward
-** [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]] [6/28]
-*** DONE 1
-*** DONE 2
-*** DONE 3
-*** TODO 4
-*** TODO 5
-*** TODO 6
-*** DONE 7
-*** TODO 8
-*** TODO 9
-*** TODO 10
-*** TODO 11
-*** TODO 12
-*** TODO 13
-*** TODO 14
-*** TODO 15
-*** TODO 16
-*** TODO 17
-*** DONE 18
-*** DONE 19
-*** TODO 20
-*** TODO 21
-*** TODO 22
-*** TODO 23
-*** TODO 24
-*** TODO 25
-*** TODO 26
-*** TODO 27
-*** TODO 28
-
-** TODO Organice tutorial - search/todo list, tags, agenda, capture templates
-** TODO Find org capture/agenda tutorials
-** TODO Bring my Nix flake over to Asahi
-** TODO Install Zen Browser
-*** TODO [[https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/][With idle tab sweeper]]
-*** TODO With 1Password
-** TODO Figure out message filtering for Proton Mail
-** TODO Schedule haircut
-** TODO Recall state of cLox
-** TODO Turn off word suggestions in org/text modes
-** TODO Read tutorial/configuration for gptel
-** TODO Find time in schedule for a date night/adventure card
-** TODO Set up repo for Doom config
-** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode
-** TODO Find good time in schedule for regular climbing/workout
-** TODO Find/order power cable for record player
-** TODO Install Racket for BR
-** TODO Make/find "set" object/struct in zf.lisp
-Abstract interface enabling set operations:
-- [ ] Test membership
-- [ ] Add/remove element
-- [ ] Union
-- [ ] Intersection
-- [ ] Difference
-- [ ] Symmetric difference (XOR)
-Should allow things like sets containing themselves / sets containing everything
-** TODO Make custom "lambda" object/struct for lambda.lisp
-Use macros for more flexibility with function inputs - should be easily able to do things like PLUS * PLUS and end up with a 4-arity function
-** TODO Find org journal tutorial
-
-* Work
-** TODO Read through circuitizer papers
-** DONE Fix typo in dynamics appendix
-** TODO Make new branch for complete_subspace
-** DONE Assign complete_subspace ticket to myself
-** TODO Make new branch for extend_subspace
-** DONE Assign extend_subspace ticket to myself
-** TODO (After other two are done) Make branch for subspace error metric
-** DONE Assign subspace error metric ticket to myself
-** DONE Check for Aires MR review "requests"
-** DONE Find comment about how to improve orthonormalization of MPSes/ask Andrew about it
-** DONE Figure out better dual monitor setup
-** DONE Make ticket for RoninTDVP
-** DONE Make ticket for DMRG-3S
-** TODO Steal Shriya's standing desk (if she's gone)
+* Computer (Home) :Home:Computer:
 * Home
 ** TODO Put away clean kitchen stuff
 ** TODO Bring up last of kitchen stuff from basement
@@ -141,6 +52,21 @@ Use macros for more flexibility with function inputs - should be easily able to 
 *** TODO Impact driver
 *** TODO Masonry drill bits
 *** TODO Masonry screws
+* Work
+** TODO Read through circuitizer papers
+** DONE Fix typo in dynamics appendix
+** DONE Make new branch for complete_subspace
+** DONE Assign complete_subspace ticket to myself
+** TODO Make new branch for extend_subspace
+** DONE Assign extend_subspace ticket to myself
+** TODO (After other two are done) Make branch for subspace error metric
+** DONE Assign subspace error metric ticket to myself
+** DONE Check for Aires MR review "requests"
+** DONE Find comment about how to improve orthonormalization of MPSes/ask Andrew about it
+** DONE Figure out better dual monitor setup
+** DONE Make ticket for RoninTDVP
+** DONE Make ticket for DMRG-3S
+** TODO Steal Shriya's standing desk (if she's gone)
 * Anywhere/Phone
 ** DONE Message the bois about camping trip
 ** TODO Read GTD book

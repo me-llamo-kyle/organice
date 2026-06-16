@@ -1,52 +1,114 @@
 #+title: Projects
 
-* PROJ Rigetti prep
-** Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
-** Talk - they'll want to see how you communicate with experimentalists/everyone
-** Whiteboard questions - kinda like qual exam
-** Read Rigetti's papers
-* PROJ LLVM tutorial
+* PROJ Misc
+** TODO Schedule haircut :Computer:
+** TODO Find good time in schedule for regular climbing/workout :Computer:
+** TODO Find/order power cable for record player :Computer:
+* PROJ Rigetti prep :Computer:
+- Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
+- Talk - they'll want to see how you communicate with experimentalists/everyone
+- Whiteboard questions - kinda like qual exam
+** TODO Find Rigetti papers to read :Computer:
+* PROJ LLVM tutorial :Computer:
 - https://llvm.org/docs/tutorial/index.html
-* PROJ Set up habit tracker
-** Brushing Asher's teeth
-** Flea tick heartworm
-** Walking/running
-** Meds
-** Meditation
-** Getting into work at a decent time?
-** Waking up at a good time
-** Watering plants
-** CSA pickup
-** CSA selection
-** Cleaning
-** Org journal
-** Keep in touch with important people
-*** Mom & Pops
-*** Droob
-*** Sambert
-** GTD weekly review
-*** Touch base with Anne about her schedule for the week
-* PROJ Plan camping trip
-* PROJ Iceland prep
-* PROJ Org Mode / GTD improvements
-* PROJ Doctor appts
-* PROJ GTD
-** TODO [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Fancy Org Mode Setup]]
-* PROJ Asahi Linux Setup
-* PROJ Proton
+** TODO Start first tutorial
+* PROJ Set up habit tracker :Computer:
+- Brushing Asher's teeth
+- Flea tick heartworm
+- Walking/running
+- Meds
+- Meditation
+- Getting into work at a decent time?
+- Waking up at a good time
+- Watering plants
+- CSA pickup
+- CSA selection
+- Cleaning
+- Org journal
+- Keep in touch with important people
+  - Mom & Pops
+  - Droob
+  - Sambert
+- GTD weekly review
+  - Touch base with Anne about her schedule for the week
+** TODO Look at Organice's habit tracker tutorial again
+*** TODO Then figure out how to use it in regular org mode
+* PROJ Plan camping trip :Computer:
+** TODO Pre-gaming camping plan
+SCHEDULED: <2026-06-17 Wed 20:00>
+* PROJ Iceland prep :Computer:
+** TODO Get Iceland dates into personal calendar/brain :Computer:
+** TODO Book rental car for Iceland :Computer:
+** TODO Board boochie for Iceland :Computer:
+* PROJ Org Mode / GTD improvements :Computer:
+** TODO [[https://www.orgroam.com/manual.html][Org Roam]] :Computer:
+** TODO [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Fancy Org Mode Setup]] :Computer:
+** [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]] [17/28] :Computer:
+*** DONE 1
+*** DONE 2
+*** DONE 3
+*** TODO 4
+*** TODO 5
+*** TODO 6
+*** DONE 7
+*** DONE 8
+*** DONE 9
+*** DONE 10
+*** DONE 11
+*** DONE 12
+*** DONE 13
+*** DONE 14
+*** DONE 15
+*** DONE 16
+*** DONE 17
+*** DONE 18
+*** DONE 19
+*** TODO 20
+*** TODO 21
+*** TODO 22
+*** DONE 23
+*** TODO 24
+*** TODO 25
+*** TODO 26
+*** TODO 27
+*** TODO 28
+** TODO Organice tutorial - search/todo list, tags, agenda, capture templates :Computer:
+** TODO Find org capture tutorial :Computer:
+** TODO Learn about org agenda :Computer:
+Org mode creator: "Tasks/appointments should be created in the same place notes are taken."
+** TODO Turn off word suggestions in org/text modes
+** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode
+** TODO Find org journal tutorial
+* PROJ Doctor appts :Computer:
+** TODO Schedule doctor's appt :Computer:
+** TODO Schedule eye exam :Computer:
+** TODO Look into transferring meds :Computer:
+** TODO Look into ADHD treatment through Kaiser :Computer:
+- Apparently it's not so straightforward
+* PROJ Asahi Linux Setup :Computer:
+** TODO Bring my Nix flake over to Asahi
+** TODO Install Zen Browser
+*** TODO [[https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/][With idle tab sweeper]]
+*** TODO With 1Password
+* PROJ Proton :Computer:
+** TODO Figure out message filtering for Proton Mail
 * PROJ Goose concert
-* PROJ Kitchen setup
-* PROJ Organize tools
-* PROJ Bird's nest in light fixture
+* PROJ Kitchen setup :Home:
+* PROJ Organize tools :Home:
+* PROJ Bird's nest in light fixture :Home:
 * PROJ Gardening
 ** TODO Transplant hostas
 ** TODO Decide where to put tree
 ** TODO Plant Jersey Tea bush
-* PROJ Crafting Interpreters
+* PROJ Crafting Interpreters :Computer:
+** TODO Recall state of cLox
 * PROJ Fix PC freezing issue
-* PROJ Emacs AI setup
+* PROJ Emacs AI setup :Computer:
+** TODO Read tutorial/configuration for gptel
 * PROJ Date nights/ideas
-** Adventure cards
+** TODO Find time in schedule for a date night/adventure card :Computer:
+* PROJ Portable Doom Config :Computer:
+** TODO Set up repo for Doom config
 * PROJ Circuitizer papers
 * PROJ Learn category theory
 ** Finish Joy of Abstraction
@@ -54,11 +116,22 @@
 * PROJ Fix sink
 * PROJ Storage for Anne's bike
 * PROJ Meal/ingredient prep
-* PROJ Beautiful Racket
-* PROJ CL ZF arithmetic
-* PROJ CL Lambda Calculus BS
+* PROJ Beautiful Racket :Computer:
+** TODO Install Racket for BR
+* PROJ CL ZF arithmetic :Computer:
+** TODO Make/find "set" object/struct in zf.lisp
+Abstract interface enabling set operations:
+- [ ] Test membership
+- [ ] Add/remove element
+- [ ] Union
+- [ ] Intersection
+- [ ] Difference
+- [ ] Symmetric difference (XOR)
+Should allow things like sets containing themselves / sets containing everything
+* PROJ CL Lambda Calculus BS :Computer:
+** TODO Make custom "lambda" object/struct for lambda.lisp
+Use macros for more flexibility with function inputs - should be easily able to do things like PLUS * PLUS and end up with a 4-arity function
 * PROJ Hang plant shelf & coffee bag
-* PROJ Org Journal
 * PROJ complete_subspace
 Add an eigenstate whenever there's an avoided crossing out of the subspace
 Or just "track" initial subspace
@@ -68,6 +141,3 @@ Can use derived error metric to determine how good the subspace approximation is
 Might need to look into better method for orthonormalizing MPSes
 * PROJ Subspace error metric
 Determines error from using time dependent subspace
-* PROJ Incorporate calendar/agenda into GTD
-** Learn about org agenda - better than using a separate calendar app
-Org mode creator: "Tasks/appointments should be created in the same place notes are taken."
