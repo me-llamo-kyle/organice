@@ -8,3 +8,4 @@ Better than lispy/paredit? It looks like it correctly handles commenting out lin
 * Cancel Fox One
   DEADLINE: <2026-07-15 Wed>
 * Date Tuesday night
+* Check out beorg
