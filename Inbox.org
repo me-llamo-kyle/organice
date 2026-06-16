@@ -10,3 +10,4 @@ Better than lispy/paredit? It looks like it correctly handles commenting out lin
 * Date Tuesday night
 * Check out beorg
 * Magicians The Devil's Deal game
+* Men's soccer = Batman
