@@ -7,9 +7,8 @@
 ** TODO Preserve lemons :Home:
 ** TODO Look for water filter replacements (probably in basement somewhere) :Home:
 ** TODO Bathe Ms. Puppy :Home:
-** TODO Steal Shriya's standing desk (if she's gone) :Work:
 ** TODO Check for Aires MR review "requests" :Work:
-DEADLINE: <2026-06-18 Thu +1d>
+DEADLINE: <2026-06-22 Mon +1w>
 :PROPERTIES:
 :LAST_REPEAT: [2026-06-17 Wed 14:14]
 :END:
@@ -57,6 +56,10 @@ SCHEDULED: <2026-06-17 Wed 20:00>
 ** TODO Book rental car for Iceland :Computer:
 ** TODO Board boochie for Iceland :Computer:
 * PROJ Org Mode / GTD improvements :Computer:
+** PROJ Org Mode Manuals
+*** TODO Read [[https://orgmode.org/orgguide.html][Org Mode Compact Guide]]
+*** TODO [#A] Read [[https://orgmode.org/worg][Worg]]
+[[https://orgmode.org/worg/org-tutorials/index.html][Tutorials]]
 ** PROJ [[https://www.orgroam.com/manual.html][Org Roam]]
 *** TODO Read through manual
 *** TODO Take some notes from [[*\[\[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj\]\[Zaiste Doomcasts\]\]][Zaiste Doomcasts]]
@@ -120,6 +123,7 @@ Keep personal notes/journal encrypted
 *** Bullshit Jobs
 ** TODO Turn off word suggestions in org/text modes
 ** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode :Home:
+** TODO Check out [[https:/orgro.org][Orgro]] :Phone:
 * PROJ Doctor appts :Computer:
 ** TODO Schedule doctor's appt :Computer:
 ** TODO Schedule eye exam :Computer:

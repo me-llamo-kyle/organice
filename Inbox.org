@@ -1,2 +1,12 @@
 #+title: Inbox
 
+* doom-feather-light nice purple-tinted light theme
+* https://lists.gnu.org/archive/html/emacs-orgmode/2007-12/msg00281.html
+#+begin_quote
+One reason people try out GTD is because they want to get more work
+done, because they feel they are drowning in a sea of information,
+emails, projects etc, and want to get it all under control.  It is
+therefore an exquisite irony that some of these people then spend half
+their time surfing the net to try to find out how to do GTD better!
+#+end_quote
+* How to hide org mode formatting stuff (like /italic/ slashes)
