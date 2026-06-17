@@ -1,6 +1,0 @@
-#+title: Awaiting
-
-* Profiling MPO sums :Tyler:
-* Next interview step :Rigetti:
-* [[https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVZKFShqgpxKPhRDQKnWCJvg][Projector]]
-* Reviewing MPO sum MR

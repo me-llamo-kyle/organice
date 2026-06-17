@@ -1,28 +1,2 @@
 #+title: Inbox
 
-* New Strokes album - late June
-* Smash bros tournament in the park
-* Check out Parinfer
-Better than lispy/paredit? It looks like it correctly handles commenting out lines
-* Cancel Fox One
-  DEADLINE: <2026-07-15 Wed>
-* Date Tuesday night
-* Check out beorg
-* Magicians The Devil's Deal game
-* Men's soccer = Batman, women's soccer = flesh wound
-* [[https://turneroslermd.medium.com/lumbar-support-is-a-terrible-workaround-8de02b3019e3][Lumbar "support" is a terrible workaround]]
-** Get one of his chairs? [[https://qor360.com][QOR360]]
-These chairs/style require an adjustment period
-** [[https://www.amazon.com/Sit-Better-Ergonomic-Undermine-Shortened-ebook/dp/B09FVRB51P][Sit Better]]
-* How to make Org mode log the time that a task/project is marked DONE / CANCELLED
-* Use tags for contexts, keep actions & awaiting under projects
-[[file:Projects.org::*\[\[https://desmondrivet.com/2023/12/05/gtd-org-mode\]\[Fancy Org Mode Setup\]\]][Fancy Org Mode Setup]]
-* Take notes on [[file:Actions.org::*\[\[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj\]\[Zaiste Doomcasts\]\]][Zaiste Doomcasts]]
-Maybe using Org Roam
-* Break up [[file:Projects.org::*Org Mode / GTD improvements][massive projects]]
-* Concerta sucks?
-Get GTD in a good place then try going raw
-* Reason cast iron pan
-* Hang knife bar
-* Write biography about Mom and pops
-* Do parkour

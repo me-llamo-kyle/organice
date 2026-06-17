@@ -10,6 +10,8 @@
 ** Make projects/actions as small as possible
 - Actions should be the smallest physical action that can be done to move the project along
 - Projects don't need to be perfect, you can always make an "Improve X" project later
+  - Or make sub-projects for larger projects
+
 * Trigger list
 Reminders of any "open loops" that may not have been captured yet
 ** Anne plans

@@ -4,11 +4,27 @@
 ** TODO Schedule haircut :Computer:
 ** TODO Find good time in schedule for regular climbing/workout :Computer:
 ** TODO Find/order power cable for record player :Computer:
-* PROJ Rigetti prep :Computer:
+** TODO Preserve lemons :Home:
+** TODO Look for water filter replacements (probably in basement somewhere) :Home:
+** TODO Bathe Ms. Puppy :Home:
+** TODO Steal Shriya's standing desk (if she's gone) :Work:
+** TODO Check for Aires MR review "requests" :Work:
+DEADLINE: <2026-06-18 Thu +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2026-06-17 Wed 14:14]
+:END:
+- State "DONE"       from "TODO"       [2026-06-17 Wed 14:14]
+** WAIT [[https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVZKFShqgpxKPhRDQKnWCJvg][Projector]]
+** TODO Cancel Fox One
+  DEADLINE: <2026-07-15 Wed>
+** TODO Listen to new Strokes album
+DEADLINE: <2026-06-24 Wed>
+* PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
 - Talk - they'll want to see how you communicate with experimentalists/everyone
 - Whiteboard questions - kinda like qual exam
-** TODO Find Rigetti papers to read :Computer:
+** WAIT Next interview steps
+** TODO Find Rigetti papers to read
 * PROJ LLVM tutorial :Computer:
 - https://llvm.org/docs/tutorial/index.html
 ** TODO Start first tutorial
@@ -41,9 +57,19 @@ SCHEDULED: <2026-06-17 Wed 20:00>
 ** TODO Book rental car for Iceland :Computer:
 ** TODO Board boochie for Iceland :Computer:
 * PROJ Org Mode / GTD improvements :Computer:
-** TODO [[https://www.orgroam.com/manual.html][Org Roam]] :Computer:
-** TODO [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Fancy Org Mode Setup]] :Computer:
-** [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]] [17/28] :Computer:
+** PROJ [[https://www.orgroam.com/manual.html][Org Roam]]
+*** TODO Read through manual
+*** TODO Take some notes from [[*\[\[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj\]\[Zaiste Doomcasts\]\]][Zaiste Doomcasts]]
+*** TODO Watch [[https://www.youtube.com/watch?v=DbsAQSIKQXk][No Boilerplate's Obsidian videos]] for inspo
+** PROJ [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Fancy Org Mode Setup]]
+*** DONE Consolidate Actions and Awating under Projects
+*** TODO Custom org-todo keywords :Home:
+#+begin_src elisp
+(setq org-todo-keywords
+      '((sequence "TODO(t)" "WAIT(w)" "PROJ(p)" "|" "DONE(d)" "CANC(c)")
+        ))
+#+end_src
+** PROJ [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]] [20/28]
 *** DONE 1
 *** DONE 2
 *** DONE 3
@@ -67,18 +93,33 @@ SCHEDULED: <2026-06-17 Wed 20:00>
 *** TODO 21
 *** TODO 22
 *** DONE 23
-*** TODO 24
-*** TODO 25
-*** TODO 26
+*** DONE 24
+*** DONE 25
+*** DONE 26
 *** TODO 27
 *** TODO 28
-** TODO Organice tutorial - search/todo list, tags, agenda, capture templates :Computer:
-** TODO Find org capture tutorial :Computer:
-** TODO Learn about org agenda :Computer:
-Org mode creator: "Tasks/appointments should be created in the same place notes are taken."
+** TODO Finish [[https://organice.200ok.ch/sample][Organice tutorial]] :Phone:
+** PROJ Org Capture
+*** TODO Set up capture templates
+- Inbox
+- Project
+*** TODO Make sure that's working on Organice
+** PROJ Org Agenda
+*** TODO Find another tutorial about it
+*** TODO Look into org-super-agenda
+*** TODO How to format times as 12hr times
+** PROJ Org Journal
+*** DONE Find org journal tutorial
+*** TODO Set up journal directory to be synced
+** PROJ Org crypt
+Keep personal notes/journal encrypted
+*** TODO Figure out how to use
+** PROJ How to set up reading list?
+*** GTD book
+*** Joy of Abstraction
+*** Bullshit Jobs
 ** TODO Turn off word suggestions in org/text modes
-** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode
-** TODO Find org journal tutorial
+** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode :Home:
 * PROJ Doctor appts :Computer:
 ** TODO Schedule doctor's appt :Computer:
 ** TODO Schedule eye exam :Computer:
@@ -92,30 +133,48 @@ Org mode creator: "Tasks/appointments should be created in the same place notes 
 *** TODO With 1Password
 * PROJ Proton :Computer:
 ** TODO Figure out message filtering for Proton Mail
-* PROJ Goose concert
+* PROJ Goose concert :Phone:
+** TODO Ask Sam/Serge about concert
 * PROJ Kitchen setup :Home:
+** TODO Bring up last of kitchen stuff from basement
+** PROJ Reason cast iron pan
+*** TODO Look up how to reseason (might still have card)
+** PROJ Hang knife bar
+*** TODO Figure out where to hang bar
 * PROJ Organize tools :Home:
-* PROJ Bird's nest in light fixture :Home:
-* PROJ Gardening
-** TODO Transplant hostas
-** TODO Decide where to put tree
-** TODO Plant Jersey Tea bush
+** TODO Move tools into tool cabinet
+* PROJ Basement pile :Home:
+** TODO Go through basement pile by laundry
+* PROJ Bird's nest in light fixture :Yard:
+** TODO Clear out nest in light fixture
+* PROJ Gardening :Yard:
+** TODO When/where to move hostas :Anne:
+** TODO Decide where to put tree :Anne:
+** TODO When/where to plant Jersey Tea bush :Anne:
+* PROJ Spray for ticks :Yard:
+** TODO Figure out when to spray :Anne:
+* PROJ Spray Pachysandra :Yard:
+** TODO Figure out when to spray :Anne:
 * PROJ Crafting Interpreters :Computer:
 ** TODO Recall state of cLox
-* PROJ Fix PC freezing issue
+* PROJ Fix PC freezing issue :Home:
+** TODO Look up why PC might be freezing
 * PROJ Emacs AI setup :Computer:
 ** TODO Read tutorial/configuration for gptel
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
 * PROJ Portable Doom Config :Computer:
 ** TODO Set up repo for Doom config
-* PROJ Circuitizer papers
-* PROJ Learn category theory
-** Finish Joy of Abstraction
-** Get Categories for the Working Mathematician
+* PROJ Circuitizer papers :Work:
+** TODO Read through statics paper
+** TODO Read through dynamics paper
+** DONE Fix typo in dynamics appendix
 * PROJ Fix sink
+** TODO Look up how to fix sink
 * PROJ Storage for Anne's bike
+** TODO Look up storage options for Anne's bike
 * PROJ Meal/ingredient prep
+** TODO Read "Big Vegan Flavor" for ingredient prep ideas
 * PROJ Beautiful Racket :Computer:
 ** TODO Install Racket for BR
 * PROJ CL ZF arithmetic :Computer:
@@ -132,12 +191,46 @@ Should allow things like sets containing themselves / sets containing everything
 ** TODO Make custom "lambda" object/struct for lambda.lisp
 Use macros for more flexibility with function inputs - should be easily able to do things like PLUS * PLUS and end up with a 4-arity function
 * PROJ Hang plant shelf & coffee bag
-* PROJ complete_subspace
+* PROJ complete_subspace :Work:
 Add an eigenstate whenever there's an avoided crossing out of the subspace
 Or just "track" initial subspace
-* PROJ extend_subspace
-Combine subspaces at adjacent timepoints
-Can use derived error metric to determine how good the subspace approximation is & adaptively extend
-Might need to look into better method for orthonormalizing MPSes
-* PROJ Subspace error metric
-Determines error from using time dependent subspace
+** DONE Make new branch for complete_subspace
+** DONE Assign complete_subspace ticket to myself
+** TODO Write function to detect first small singular value
+Search each rank individually, then take min index
+** TODO Write function to calculate another eigenvector if needed
+* PROJ MPO Sum MR :Work:
+** WAIT Reviewers
+** TODO Address Jason's comments on bond dimension display
+* PROJ Profiling MPO Sums :Work:
+** WAIT Check on Tyler's progress
+SCHEDULED: <2026-06-18 Thu 13:00>
+* PROJ Groceries :Shopping:
+** DONE Berries
+** DONE PB
+** DONE Brocolli
+** DONE Sweet potatoes
+** DONE Arugala
+** DONE Hummus
+** DONE Tofu
+** DONE Honey
+** DONE Chickpeas
+** DONE Canned tomatoes
+** DONE My yogurt
+** DONE Coconut milk
+** DONE Leeks
+** DONE Shrooms
+** DONE Pasta
+** DONE Frozen berries
+** DONE Chocolate chips
+** DONE Dog food
+** DONE Paper towels
+* PROJ Target :Shopping:
+* PROJ Howl :Shopping:
+** TODO Fish oil
+** TODO Teeferpaste
+* PROJ Home Depot :Shopping:
+** TODO Hammer drill
+** TODO Impact driver
+** TODO Masonry drill bits
+** TODO Masonry screws
