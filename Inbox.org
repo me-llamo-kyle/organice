@@ -12,3 +12,12 @@ their time surfing the net to try to find out how to do GTD better!
 * How to hide org mode formatting stuff (like /italic/ slashes)
 * Anne's family vacation Aug 20
 * Anne needs money
+* [[http://www.mtm.ufsc.br/~ebatista/2016-2/maclanecat.pdf][Mac Lane]]
+** Monoids central to category theory
+Associative product + unit
+A category can be viewed as a generalized monoid:
+- Unit = identity morphisms O -id-> A
+- Product = pullback of domain and codomain functions A =dom/cod=> O
+- A X_O A = {(g,f) in A X A: dom(g) = cod(f)}
+** Categorical product is associative, symmetric, and has terminal objects as units
+(All up to isomorphism)
