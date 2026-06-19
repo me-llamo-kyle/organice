@@ -22,4 +22,5 @@ A category can be viewed as a generalized monoid:
 - A X_O A = {(g,f) in A X A: dom(g) = cod(f)}
 ** Categorical product is associative, symmetric, and has terminal objects as units
 (All up to isomorphism)
+* [[https://emilyriehl.github.io/files/context.pdf][Category Theory in Context]]
 * L tyrosine
