@@ -2,3 +2,4 @@
 #+title: Inbox
 * Habit tracker: go through mail
 * Sylvan Esso
+  SCHEDULED: <2026-06-22 Mon>
