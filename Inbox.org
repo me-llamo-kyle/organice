@@ -3,3 +3,4 @@
 * Habit tracker: go through mail
 * Sylvan Esso
   SCHEDULED: <2026-07-02 Thu>
+* Vote
