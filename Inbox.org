@@ -1,3 +1,4 @@
 * Find lampshade
 #+title: Inbox
 * Habit tracker: go through mail
+* Sylvan Esso
