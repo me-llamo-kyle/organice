@@ -4,29 +4,29 @@
 ** TODO Schedule haircut :Computer:
 ** TODO Find good time in schedule for regular climbing/workout :Computer:
 ** TODO Find/order power cable for record player :Computer:
-** TODO Preserve lemons :Home:
 ** TODO Look for water filter replacements (probably in basement somewhere) :Home:
-** TODO Bathe Ms. Puppy :Home:
+** DONE Bathe Ms. Puppy :Home:
 ** TODO Check for Aires MR review "requests" :Work:
-DEADLINE: <2026-06-22 Mon +1w>
+DEADLINE: <2026-06-29 Mon +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2026-06-17 Wed 14:14]
+:LAST_REPEAT: [2026-06-22 Mon 15:50]
 :END:
+- State "DONE"       from "TODO"       [2026-06-22 Mon 15:50]
 - State "DONE"       from "TODO"       [2026-06-17 Wed 14:14]
 ** WAIT [[https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVZKFShqgpxKPhRDQKnWCJvg][Projector]]
 ** TODO Cancel Fox One
   DEADLINE: <2026-07-15 Wed>
 ** TODO Listen to new Strokes album
 DEADLINE: <2026-06-24 Wed>
+** TODO Liquidate money for Anne's credit card :Computer:
+10k
 * PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
 - Talk - they'll want to see how you communicate with experimentalists/everyone
 - Whiteboard questions - kinda like qual exam
 ** WAIT Next interview steps
 ** TODO Find Rigetti papers to read
-* PROJ LLVM tutorial :Computer:
-- https://llvm.org/docs/tutorial/index.html
-** TODO Start first tutorial
+** TODO Send follow-up email
 * PROJ Set up habit tracker :Computer:
 - Brushing Asher's teeth
 - Flea tick heartworm
@@ -49,29 +49,38 @@ DEADLINE: <2026-06-24 Wed>
 ** TODO Look at Organice's habit tracker tutorial again
 *** TODO Then figure out how to use it in regular org mode
 * PROJ Plan camping trip :Computer:
-** TODO Pre-gaming camping plan
-SCHEDULED: <2026-06-17 Wed 20:00>
+** WAIT Get Grant & Ford's availability
+SCHEDULED: <2026-06-24 Wed>
+** WAIT Decide on date and location
 * PROJ Iceland prep :Computer:
-** TODO Get Iceland dates into personal calendar/brain :Computer:
+SCHEDULED: <2026-07-08 Wed>
+** Dates: <2026-07-08 Wed>--<2026-07-17 Fri>:Computer:
 ** TODO Book rental car for Iceland :Computer:
-** TODO Board boochie for Iceland :Computer:
+DEADLINE: <2026-06-23 Tue>
+** TODO Figure out what I need to buy still
+- [ ] Rain pants
+- [ ] Long johns
+** DONE Board boochie for Iceland :Computer:
 * PROJ Org Mode / GTD improvements :Computer:
-** PROJ Org Mode Manuals
-*** TODO Read [[https://orgmode.org/orgguide.html][Org Mode Compact Guide]]
-*** TODO [#A] Read [[https://orgmode.org/worg][Worg]]
-[[https://orgmode.org/worg/org-tutorials/index.html][Tutorials]]
+** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
+:LOGBOOK:
+CLOCK: [2026-06-22 Mon 16:26]--[2026-06-22 Mon 16:51] =>  0:25
+:END:
+** TODO [#A] [[https://blog.jethro.dev/posts/org_mode_workflow_preview/][Jethro's Org Mode workflow]]
+Author of Org Roam
 ** PROJ [[https://www.orgroam.com/manual.html][Org Roam]]
 *** TODO Read through manual
 *** TODO Take some notes from [[*\[\[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj\]\[Zaiste Doomcasts\]\]][Zaiste Doomcasts]]
 *** TODO Watch [[https://www.youtube.com/watch?v=DbsAQSIKQXk][No Boilerplate's Obsidian videos]] for inspo
 ** PROJ [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Fancy Org Mode Setup]]
-*** DONE Consolidate Actions and Awating under Projects
 *** TODO Custom org-todo keywords :Home:
 #+begin_src elisp
 (setq org-todo-keywords
       '((sequence "TODO(t)" "WAIT(w)" "PROJ(p)" "|" "DONE(d)" "CANC(c)")
         ))
 #+end_src
+**** TODO At Home :Home:
+**** TODO At Work :Work:
 ** PROJ [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]] [20/28]
 *** DONE 1
 *** DONE 2
@@ -112,7 +121,6 @@ SCHEDULED: <2026-06-17 Wed 20:00>
 *** TODO Look into org-super-agenda
 *** TODO How to format times as 12hr times
 ** PROJ Org Journal
-*** DONE Find org journal tutorial
 *** TODO Set up journal directory to be synced
 ** PROJ Org crypt
 Keep personal notes/journal encrypted
@@ -124,6 +132,16 @@ Keep personal notes/journal encrypted
 ** TODO Turn off word suggestions in org/text modes
 ** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode :Home:
 ** TODO Check out [[https:/orgro.org][Orgro]] :Phone:
+** TODO Check out [[https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962][beorg]] :Phone:
+** https://lists.gnu.org/archive/html/emacs-orgmode/2007-12/msg00281.html
+#+begin_quote
+One reason people try out GTD is because they want to get more work
+done, because they feel they are drowning in a sea of information,
+emails, projects etc, and want to get it all under control.  It is
+therefore an exquisite irony that some of these people then spend half
+their time surfing the net to try to find out how to do GTD better!
+#+end_quote
+** TODO How to hide org mode formatting stuff (like /italic/ slashes) :Computer:
 * PROJ Doctor appts :Computer:
 ** TODO Schedule doctor's appt :Computer:
 ** TODO Schedule eye exam :Computer:
@@ -137,8 +155,6 @@ Keep personal notes/journal encrypted
 *** TODO With 1Password
 * PROJ Proton :Computer:
 ** TODO Figure out message filtering for Proton Mail
-* PROJ Goose concert :Phone:
-** TODO Ask Sam/Serge about concert
 * PROJ Kitchen setup :Home:
 ** TODO Bring up last of kitchen stuff from basement
 ** PROJ Reason cast iron pan
@@ -165,8 +181,6 @@ Keep personal notes/journal encrypted
 ** TODO Look up why PC might be freezing
 * PROJ Emacs AI setup :Computer:
 ** TODO Read tutorial/configuration for gptel
-* PROJ Date nights/ideas
-** TODO Find time in schedule for a date night/adventure card :Computer:
 * PROJ Portable Doom Config :Computer:
 ** TODO Set up repo for Doom config
 * PROJ Circuitizer papers :Work:
@@ -175,12 +189,6 @@ Keep personal notes/journal encrypted
 ** DONE Fix typo in dynamics appendix
 * PROJ Fix sink
 ** TODO Look up how to fix sink
-* PROJ Storage for Anne's bike
-** TODO Look up storage options for Anne's bike
-* PROJ Meal/ingredient prep
-** TODO Read "Big Vegan Flavor" for ingredient prep ideas
-* PROJ Beautiful Racket :Computer:
-** TODO Install Racket for BR
 * PROJ CL ZF arithmetic :Computer:
 ** TODO Make/find "set" object/struct in zf.lisp
 Abstract interface enabling set operations:
@@ -195,6 +203,7 @@ Should allow things like sets containing themselves / sets containing everything
 ** TODO Make custom "lambda" object/struct for lambda.lisp
 Use macros for more flexibility with function inputs - should be easily able to do things like PLUS * PLUS and end up with a 4-arity function
 * PROJ Hang plant shelf & coffee bag
+** TODO Get stuff at [[*Home Depot][Home Depot]]
 * PROJ complete_subspace :Work:
 Add an eigenstate whenever there's an avoided crossing out of the subspace
 Or just "track" initial subspace
@@ -208,7 +217,7 @@ Search each rank individually, then take min index
 ** TODO Address Jason's comments on bond dimension display
 * PROJ Profiling MPO Sums :Work:
 ** WAIT Check on Tyler's progress
-SCHEDULED: <2026-06-18 Thu 13:00>
+SCHEDULED: <2026-06-25 Thu 13:00>
 * PROJ Groceries :Shopping:
 ** DONE Berries
 ** DONE PB
@@ -231,10 +240,10 @@ SCHEDULED: <2026-06-18 Thu 13:00>
 ** DONE Paper towels
 * PROJ Target :Shopping:
 * PROJ Howl :Shopping:
-** TODO Fish oil
-** TODO Teeferpaste
 * PROJ Home Depot :Shopping:
 ** TODO Hammer drill
 ** TODO Impact driver
 ** TODO Masonry drill bits
 ** TODO Masonry screws
+* PROJ Date nights/ideas
+** TODO Find time in schedule for a date night/adventure card :Computer:

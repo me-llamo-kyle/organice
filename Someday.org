@@ -1,10 +1,5 @@
 #+title: Someday
 
-* Wicked / Vmacs / ViMacs / ViMax / Evilmacs / Evilmax
-Emacs clone (preferably faster like Neomacs) with Vim keybindings by default
-Would make documentation easier for evil users
-* Contribute to Neomacs
-* Find cool CL project to contribute to
 * Car - Plug-in hybrid
 - Subaru
 - Jeep
@@ -29,7 +24,6 @@ These chairs/style require an adjustment period
 *** [[https://www.amazon.com/Sit-Better-Ergonomic-Undermine-Shortened-ebook/dp/B09FVRB51P][Sit Better]]
 * Stuff to maybe buy
 ** [[https://www.clicks.tech/][Clicks]]
-** Categories for the Working Mathematician
 ** New clothes
 ** New workout clothes
 ** New shoes
@@ -38,20 +32,18 @@ These chairs/style require an adjustment period
 ** New glasses
 * Siesta schedule with new job?
 * Learn quantum gravity
-* Better breakfast - overnight oats or something
+* Better breakfast - eggs
 * Soylent/Huel/homemade
+** Without gluten/"bad mood foods"
 * Practice typing speed
 * Extra cool org mode features
 ** Presentations
 ** GNU plot
 ** Password safe
-** Journal
 * Coworking space for Rigetti Bmore Bois
 * Make time for music
 ** Guitar
 ** Ableton
-* Font design
-** Get "Thinking in Type" book
 * Train Asher
 ** Sit pretty
 ** With me
@@ -61,6 +53,7 @@ These chairs/style require an adjustment period
 ** Look into Android (dumb-)phone
 * Better closet/clothes storage situation
 * Chesapeake Shakespeare company A Christmas Carol
+SCHEDULED: <2026-11-01 Sun>
 * Learn you a Haskell
 * Vegetable garden
 ** Test soil for lead
@@ -73,8 +66,6 @@ These chairs/style require an adjustment period
 * Adaptive subspace
 Use subspace error metric to adaptively extend subspace
 May need to relate heuristic subspace error metric to actual fidelity
-* Better MPS orthonormalization
-Right now we use MGS with IterCompress to approximate linear combinations. I made some comments on how to do that better
 * Make project_unitary True by default
 This could be feasible once complete_subspace is implemented
 * RoninTDVP
@@ -95,8 +86,29 @@ Determines error from using time dependent subspace
 ** DONE Assign subspace error metric ticket to myself
 * PROJ Learn category theory
 ** Finish Joy of Abstraction
-** Get Categories for the Working Mathematician
+** [[http://www.mtm.ufsc.br/~ebatista/2016-2/maclanecat.pdf][Mac Lane]]
+** [[https://emilyriehl.github.io/files/context.pdf][Category Theory in Context]]
+** Monoids central to category theory
+Associative product + unit
+A category can be viewed as a generalized monoid:
+- Unit = identity morphisms O -id-> A
+- Product = pullback of domain and codomain functions A =dom/cod=> O
+- A X_O A = {(g,f) in A X A: dom(g) = cod(f)}
+** Categorical product is associative, symmetric, and has terminal objects as units
+(All up to isomorphism)
 * Write biography about Mom and pops
-* Do parkour
-* Check out beorg
 * Magicians The Devil's Deal game
+* PROJ LLVM tutorial :Computer:
+- https://llvm.org/docs/tutorial/index.html
+** TODO Start first tutorial
+* PROJ Storage for Anne's bike
+** TODO Look up storage options for Anne's bike
+* PROJ Meal/ingredient prep
+** TODO Read "Big Vegan Flavor" for ingredient prep ideas
+* PROJ Beautiful Racket :Computer:
+** TODO Install Racket for BR
+* Wicked / Vmacs / ViMacs / ViMax / Evilmacs / Evilmax
+Emacs clone (preferably faster like Neomacs) with Vim keybindings by default
+Would make documentation easier for evil users
+* Contribute to Neomacs
+* Find cool CL project to contribute to
