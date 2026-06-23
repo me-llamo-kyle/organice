@@ -20,13 +20,15 @@ DEADLINE: <2026-06-29 Mon +1w>
 DEADLINE: <2026-06-24 Wed>
 ** TODO Liquidate money for Anne's credit card :Computer:
 10k
+** TODO Find lampshade :Home:Computer:
 * PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
 - Talk - they'll want to see how you communicate with experimentalists/everyone
 - Whiteboard questions - kinda like qual exam
 ** WAIT Next interview steps
+DEADLINE: <2026-06-29 Mon>
 ** TODO Find Rigetti papers to read
-** TODO Send follow-up email
+** DONE Send follow-up email
 * PROJ Set up habit tracker :Computer:
 - Brushing Asher's teeth
 - Flea tick heartworm
@@ -46,6 +48,7 @@ DEADLINE: <2026-06-24 Wed>
   - Sambert
 - GTD weekly review
   - Touch base with Anne about her schedule for the week
+- Go through mail
 ** TODO Look at Organice's habit tracker tutorial again
 *** TODO Then figure out how to use it in regular org mode
 * PROJ Plan camping trip :Computer:
@@ -183,10 +186,6 @@ their time surfing the net to try to find out how to do GTD better!
 ** TODO Read tutorial/configuration for gptel
 * PROJ Portable Doom Config :Computer:
 ** TODO Set up repo for Doom config
-* PROJ Circuitizer papers :Work:
-** TODO Read through statics paper
-** TODO Read through dynamics paper
-** DONE Fix typo in dynamics appendix
 * PROJ Fix sink
 ** TODO Look up how to fix sink
 * PROJ CL ZF arithmetic :Computer:
@@ -214,7 +213,7 @@ Search each rank individually, then take min index
 ** TODO Write function to calculate another eigenvector if needed
 * PROJ MPO Sum MR :Work:
 ** WAIT Reviewers
-** TODO Address Jason's comments on bond dimension display
+** DONE Address Jason's comments on bond dimension display
 * PROJ Profiling MPO Sums :Work:
 ** WAIT Check on Tyler's progress
 SCHEDULED: <2026-06-25 Thu 13:00>
@@ -247,3 +246,7 @@ SCHEDULED: <2026-06-25 Thu 13:00>
 ** TODO Masonry screws
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
+* PROJ Circuitizer papers :Work:
+** DONE Read through statics paper
+** DONE Read through dynamics paper
+** DONE Fix typo in dynamics appendix
