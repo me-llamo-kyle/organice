@@ -12,3 +12,4 @@ Like scheme, but the code is written in directory structures
 * Eyeball_in_a_cup.rs
 - Make Ferris the game master
 - Difficulty level = number of elementary permutations
+* Yogurt on a tombstone
