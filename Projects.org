@@ -70,6 +70,10 @@
    CLOCK: [2026-06-22 Mon 16:26]--[2026-06-22 Mon 16:51] =>  0:25
    :END:
 ** TODO [#A] [[https://blog.jethro.dev/posts/org_mode_workflow_preview/][Jethro's Org Mode workflow]]
+:LOGBOOK:
+CLOCK: [2026-06-24 Wed 16:39]--[2026-06-24 Wed 16:40] =>  0:01
+CLOCK: [2026-06-24 Wed 16:38]--[2026-06-24 Wed 16:39] =>  0:01
+:END:
 Author of Org Roam
 ** PROJ [[https://www.orgroam.com/manual.html][Org Roam]]
 *** TODO Read through manual
