@@ -7,17 +7,17 @@
 ** TODO Look for water filter replacements (probably in basement somewhere) :Home:
 ** DONE Bathe Ms. Puppy :Home:
 ** TODO Check for Aires MR review "requests" :Work:
-DEADLINE: <2026-06-29 Mon +1w>
-:PROPERTIES:
-:LAST_REPEAT: [2026-06-22 Mon 15:50]
-:END:
+   DEADLINE: <2026-06-29 Mon +1w>
+   :PROPERTIES:
+   :LAST_REPEAT: [2026-06-22 Mon 15:50]
+   :END:
 - State "DONE"       from "TODO"       [2026-06-22 Mon 15:50]
 - State "DONE"       from "TODO"       [2026-06-17 Wed 14:14]
 ** WAIT [[https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVZKFShqgpxKPhRDQKnWCJvg][Projector]]
 ** TODO Cancel Fox One
-  DEADLINE: <2026-07-15 Wed>
+   DEADLINE: <2026-07-15 Wed>
 ** TODO Listen to new Strokes album
-DEADLINE: <2026-06-24 Wed>
+   DEADLINE: <2026-06-24 Wed>
 ** TODO Liquidate money for Anne's credit card :Computer:
 10k
 ** TODO Find lampshade :Home:Computer:
@@ -26,7 +26,7 @@ DEADLINE: <2026-06-24 Wed>
 - Talk - they'll want to see how you communicate with experimentalists/everyone
 - Whiteboard questions - kinda like qual exam
 ** WAIT Next interview steps
-DEADLINE: <2026-06-29 Mon>
+   DEADLINE: <2026-06-29 Mon>
 ** TODO Find Rigetti papers to read
 ** DONE Send follow-up email
 * PROJ Set up habit tracker :Computer:
@@ -53,22 +53,22 @@ DEADLINE: <2026-06-29 Mon>
 *** TODO Then figure out how to use it in regular org mode
 * PROJ Plan camping trip :Computer:
 ** WAIT Get Grant & Ford's availability
-SCHEDULED: <2026-06-24 Wed>
+   SCHEDULED: <2026-06-24 Wed>
 ** WAIT Decide on date and location
 * PROJ Iceland prep :Computer:
-SCHEDULED: <2026-07-08 Wed>
+  SCHEDULED: <2026-07-08 Wed>
 ** Dates: <2026-07-08 Wed>--<2026-07-17 Fri>:Computer:
 ** TODO Book rental car for Iceland :Computer:
-DEADLINE: <2026-06-23 Tue>
+   DEADLINE: <2026-06-23 Tue>
 ** TODO Figure out what I need to buy still
 - [ ] Rain pants
 - [ ] Long johns
 ** DONE Board boochie for Iceland :Computer:
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
-:LOGBOOK:
-CLOCK: [2026-06-22 Mon 16:26]--[2026-06-22 Mon 16:51] =>  0:25
-:END:
+   :LOGBOOK:
+   CLOCK: [2026-06-22 Mon 16:26]--[2026-06-22 Mon 16:51] =>  0:25
+   :END:
 ** TODO [#A] [[https://blog.jethro.dev/posts/org_mode_workflow_preview/][Jethro's Org Mode workflow]]
 Author of Org Roam
 ** PROJ [[https://www.orgroam.com/manual.html][Org Roam]]
@@ -216,7 +216,7 @@ Search each rank individually, then take min index
 ** DONE Address Jason's comments on bond dimension display
 * PROJ Profiling MPO Sums :Work:
 ** WAIT Check on Tyler's progress
-SCHEDULED: <2026-06-25 Thu 13:00>
+   SCHEDULED: <2026-06-25 Thu 13:00>
 * PROJ Groceries :Shopping:
 ** DONE Berries
 ** DONE PB
@@ -259,6 +259,7 @@ SCHEDULED: <2026-06-25 Thu 13:00>
 - Found out later she forgot she had my car
 - At first I felt annoyed that she couldn't do it her damn self
 - But really just mad at myself for not feeling like I could say no to her
+- 
 - She's from the midwest, people there would probably do this type of shit for each other out of guilt of saying no (but really I'm the one feeling guilty)
 - Decided to surpress the feeling as I had already said yes and was nearly there
 - Crossed a five(four)-lane road, then had to keep my head down and walk past a screaming tweaker (actually just a lady minding her own biz)
