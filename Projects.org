@@ -88,35 +88,6 @@ Author of Org Roam
 #+end_src
 **** TODO At Home :Home:
 **** TODO At Work :Work:
-** PROJ [[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj][Zaiste Doomcasts]] [20/28]
-*** DONE 1
-*** DONE 2
-*** DONE 3
-*** TODO 4
-*** TODO 5
-*** TODO 6
-*** DONE 7
-*** DONE 8
-*** DONE 9
-*** DONE 10
-*** DONE 11
-*** DONE 12
-*** DONE 13
-*** DONE 14
-*** DONE 15
-*** DONE 16
-*** DONE 17
-*** DONE 18
-*** DONE 19
-*** TODO 20
-*** TODO 21
-*** TODO 22
-*** DONE 23
-*** DONE 24
-*** DONE 25
-*** DONE 26
-*** TODO 27
-*** TODO 28
 ** TODO Finish [[https://organice.200ok.ch/sample][Organice tutorial]] :Phone:
 ** PROJ Org Capture
 *** TODO Set up capture templates
