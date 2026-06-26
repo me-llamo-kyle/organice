@@ -96,6 +96,11 @@ A category can be viewed as a generalized monoid:
 - A X_O A = {(g,f) in A X A: dom(g) = cod(f)}
 ** Categorical product is associative, symmetric, and has terminal objects as units
 (All up to isomorphism)
+** The image of a functor F: C -> D is not necessarily a subcategory of D
+Example:
+- a --f-> b  c --g-> d
+- Fa --Ff-> (Fb=Fc) --Fg-> Fd
+Not a subcategory because it does not contain the newly created composite Fg . Ff
 * Write biography about Mom and pops
 * Magicians The Devil's Deal game
 * PROJ LLVM tutorial :Computer:
