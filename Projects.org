@@ -222,12 +222,14 @@ CLOCK: [2026-06-26 Fri 12:39]--[2026-06-26 Fri 12:45] =>  0:06
 ** DONE Dog food
 ** DONE Paper towels
 * PROJ Target :Shopping:
+** TODO Loop earplugs (aisle H31)
 * PROJ Howl :Shopping:
 * PROJ Home Depot :Shopping:
 ** TODO Hammer drill
 ** TODO Impact driver
 ** TODO Masonry drill bits
 ** TODO Masonry screws
+** TODO Bathroom lightbulb
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
 * PROJ Circuitizer papers :Work:

@@ -150,3 +150,11 @@ You're about at the tipping point where it's going to keep getting more and more
 /Entered on/ [2026-06-24 Wed 16:51]
 * TODO https://www.youtube.com/watch?v=O6hkC2eXbgQ&t=1331s
 /Entered on/ [2026-06-25 Thu 17:02]
+* TODO [[https://www.youtube.com/watch?v=DhY3fu-YgHU][Study the patient]]
+/Entered on/ [2026-06-27 Sat 19:19]
+* TODO Fix org mode config
+I think some things need to be set after org loads, but I can't figure out what
+/Entered on/ [2026-06-27 Sat 19:19]
+* TODO Figure out how to change bulbs in kitchen overhead lights
+Call Max?
+/Entered on/ [2026-06-28 Sun 12:49]
