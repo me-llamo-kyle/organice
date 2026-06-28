@@ -225,7 +225,7 @@ Search each rank individually, then take min index
 ** TODO Loop earplugs (aisle H31)
 * PROJ Howl :Shopping:
 * PROJ Home Depot :Shopping:
-** TODO Hammer drill
+** DONE Hammer drill
 ** TODO Impact driver
 ** TODO Masonry drill bits
 ** TODO Masonry screws
