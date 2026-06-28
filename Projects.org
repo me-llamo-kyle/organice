@@ -228,7 +228,7 @@ Search each rank individually, then take min index
 ** DONE Hammer drill
 ** DONE Impact driver
 ** DONE Masonry drill bits
-** TODO Masonry screws
+** DONE Masonry screws
 ** DONE Bathroom lightbulb
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
