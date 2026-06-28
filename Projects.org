@@ -229,7 +229,7 @@ Search each rank individually, then take min index
 ** TODO Impact driver
 ** TODO Masonry drill bits
 ** TODO Masonry screws
-** TODO Bathroom lightbulb
+** DONE Bathroom lightbulb
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
 * PROJ Circuitizer papers :Work:
