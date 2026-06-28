@@ -70,10 +70,10 @@
    CLOCK: [2026-06-22 Mon 16:26]--[2026-06-22 Mon 16:51] =>  0:25
    :END:
 ** TODO [#A] [[https://blog.jethro.dev/posts/org_mode_workflow_preview/][Jethro's Org Mode workflow]]
-:LOGBOOK:
-CLOCK: [2026-06-24 Wed 16:39]--[2026-06-24 Wed 16:40] =>  0:01
-CLOCK: [2026-06-24 Wed 16:38]--[2026-06-24 Wed 16:39] =>  0:01
-:END:
+   :LOGBOOK:
+   CLOCK: [2026-06-24 Wed 16:39]--[2026-06-24 Wed 16:40] =>  0:01
+   CLOCK: [2026-06-24 Wed 16:38]--[2026-06-24 Wed 16:39] =>  0:01
+   :END:
 Author of Org Roam
 ** PROJ [[https://www.orgroam.com/manual.html][Org Roam]]
 *** TODO Read through manual
@@ -190,14 +190,14 @@ Search each rank individually, then take min index
 ** WAIT Reviewers
 ** DONE Address Jason's comments on bond dimension display
 ** DONE Move mpo_terms to CircuitDMRG's params
-:LOGBOOK:
-CLOCK: [2026-06-26 Fri 12:11]--[2026-06-26 Fri 12:39] =>  0:28
-CLOCK: [2026-06-26 Fri 11:54]--[2026-06-26 Fri 12:05] =>  0:11
-:END:
+   :LOGBOOK:
+   CLOCK: [2026-06-26 Fri 12:11]--[2026-06-26 Fri 12:39] =>  0:28
+   CLOCK: [2026-06-26 Fri 11:54]--[2026-06-26 Fri 12:05] =>  0:11
+   :END:
 ** DONE Fix bra_op_ket_symbolic
-:LOGBOOK:
-CLOCK: [2026-06-26 Fri 12:39]--[2026-06-26 Fri 12:45] =>  0:06
-:END:
+   :LOGBOOK:
+   CLOCK: [2026-06-26 Fri 12:39]--[2026-06-26 Fri 12:45] =>  0:06
+   :END:
 * PROJ Profiling MPO Sums :Work:
 ** WAIT Check on Tyler's progress
    SCHEDULED: <2026-06-25 Thu 13:00>
