@@ -6,10 +6,11 @@
 ** TODO Find/order power cable for record player :Computer:
 ** TODO Look for water filter replacements (probably in basement somewhere) :Home:
 ** TODO Check for Aires MR review "requests" :Work:
-   DEADLINE: <2026-06-29 Mon +1w>
+   DEADLINE: <2026-07-06 Mon +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2026-06-22 Mon 15:50]
+   :LAST_REPEAT: [2026-06-29 Mon 11:32]
    :END:
+   - State "DONE"       from "TODO"       [2026-06-29 Mon 11:32]
 - State "DONE"       from "TODO"       [2026-06-22 Mon 15:50]
 - State "DONE"       from "TODO"       [2026-06-17 Wed 14:14]
 ** TODO Cancel Fox One
@@ -19,7 +20,7 @@
 ** TODO Liquidate money for Anne's credit card :Computer:
 10k
 ** TODO Find lampshade :Home:Computer:
-** TODO Talk to Andrew about unitary perturbation stuff :Work:
+** DONE Talk to Andrew about unitary perturbation stuff :Work:
 DEADLINE: <2026-06-29 Mon>
 * PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
@@ -183,8 +184,13 @@ Add an eigenstate whenever there's an avoided crossing out of the subspace
 Or just "track" initial subspace
 ** DONE Make new branch for complete_subspace
 ** DONE Assign complete_subspace ticket to myself
+** TODO Write "accumulate"-style generic function
+:LOGBOOK:
+CLOCK: [2026-06-29 Mon 16:11]--[2026-06-29 Mon 16:59] =>  0:48
+:END:
 ** TODO Write function to detect first small singular value
 Search each rank individually, then take min index
+** TODO Write DistributedSeries class
 ** TODO Write function to calculate another eigenvector if needed
 * PROJ MPO Sum MR :Work:
 ** WAIT Reviewers
@@ -242,5 +248,5 @@ I think some things need to be set after org loads, but I can't figure out what
 Combine subspaces at adjacent timepoints
 Can use derived error metric to determine how good the subspace approximation is & adaptively extend
 Might need to look into better method for orthonormalizing MPSes
-** TODO Make new branch for extend_subspace
+** DONE Make new branch for extend_subspace
 ** TODO Implement comonadic duplicate method
