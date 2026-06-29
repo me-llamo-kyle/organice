@@ -229,7 +229,7 @@ Search each rank individually, then take min index
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
 * PROJ Create Doom config repo / dotfiles repo
-** TODO Make gitlab repo and upload my .doom.d
+** DONE Make gitlab repo and upload my .doom.d
 ** TODO Look into GNU Stow / Nix home manager
 ** TODO Literate Doom config
 You're about at the tipping point where it's going to keep getting more and more involved
