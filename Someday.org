@@ -9,6 +9,43 @@
 Harming people in the name of some intangible idea (pleasing the gods/economy/shareholders)
 ** Story about a snake oil salesman written in AI style
 "The Ultimate Test" (Turing test reference)
+** PROJ Yogurt on a tombstone
+*** Outline
+- Tuesday night in Baltimore, 165ml of whiskey deep
+- Gf took the car to hang out with friends, then texted me asking for ice cream from the grocery store
+- I really didn't want to, but she's PMSing and I felt like I couldn't say no (sex issues, she needs me to be supportive)
+- Walked 20 min both ways to get ice cream
+- Found out later she forgot she had my car
+- At first I felt annoyed that she couldn't do it her damn self
+- But really just mad at myself for not feeling like I could say no to her
+- She could get angry, and I didn't want to have her angry with me
+- Throwing the mug - but that was years ago and we worked it out, sort of
+- She's from the midwest, people there would probably do this type of shit for each other out of guilt of saying no (but really I'm the one feeling guilty)
+- Decided to surpress the feeling as I had already said yes and was nearly there
+- Crossed a five(four)-lane road, then had to keep my head down and walk past a screaming tweaker (actually just a lady minding her own biz)
+- Got myself nice cheese sticks and yogurt, might as well treat myself if I'm already here (ANNOYED)
+- They didn't even have the right kind of ice cream. Told her "They didn't have Cookies & Creme, I'm getting you Milk and Cookies." I texted nicely, but felt much more annoyed
+- On the way back I felt disrespected, my relaxing time not worth as much as her time with friends
+- How would she feel if I asked her to walk 20 min both ways to get her something (incredibly upset)
+- Wouldn't be an issue if she weren't so broke and couldn't afford her own damn car
+- Or if she wouldn't ask me to do something that she couldn't easily do for her goddamn self
+- But most of all wouldn't be an issue if I had some fucking spine
+- The walk went past a graveyard and I (nearly) in a fit of anger threw my yogurt over the fence, where it hit a gravestone
+- Immediately sobered up and sprinted down the street
+- No one was around, so I got to spend the rest of the walk thinking about what I'd done and feeling embarassed (I sure hope hell isn't real, because I'm definitely going there)
+- Eventually she texts that she's on her way home, and "Oh shit I forgot I had the car"
+- I could've just reminded her of that and not done any of this
+- Immediately start to feel bad about my attitude as well as defiling a grave
+- Eventually she gets home, apologizes, says she feels like a dingus
+-
+- ???
+*** Themes
+- Boundaries, especially for men with gfs
+- How to express emotions like anger without veering into toxic masculinity
+- Balance of self-respect and caring for another
+- How does the reveal at the end change the context of the whole interaction?
+- To what degree is the narrator an asshole? How much does he have a right to be angry?
+- Why couldn't he have just said no in the first place?
 * Home office improvements
 ** Clean/put stuff away
 ** ZSH Moonlander
@@ -55,6 +92,8 @@ These chairs/style require an adjustment period
 * Chesapeake Shakespeare company A Christmas Carol
 SCHEDULED: <2026-11-01 Sun>
 * Learn you a Haskell
+** Category theory for programmers - Bartosz
+https://bartoszmilewski.com/2014/11/24/types-and-functions/
 * Vegetable garden
 ** Test soil for lead
 ** In-ground/raised beds/planter bags/buckets?
@@ -73,12 +112,6 @@ Would this just work?
 * 2-site/0-site ExcitedStateDMRG
 * DMRG-3S subspace expansion
 Could be used for all algorithms
-* PROJ extend_subspace :Work:
-Combine subspaces at adjacent timepoints
-Can use derived error metric to determine how good the subspace approximation is & adaptively extend
-Might need to look into better method for orthonormalizing MPSes
-** TODO Make new branch for extend_subspace
-** DONE Assign extend_subspace ticket to myself
 * PROJ Subspace error metric :Work:
 Determines error from using time dependent subspace
 
@@ -117,3 +150,31 @@ Emacs clone (preferably faster like Neomacs) with Vim keybindings by default
 Would make documentation easier for evil users
 * Contribute to Neomacs
 * Find cool CL project to contribute to
+* Direct esolang
+Like scheme, but the code is written in directory structures
+* Eyeball_in_a_cup.rs
+- Make Ferris the game master
+- Difficulty level = number of elementary permutations
+* Figure out how to change bulbs in kitchen overhead lights
+Call Max?
+/Entered on/ [2026-06-28 Sun 12:49]
+* PROJ Asahi Linux Setup :Computer:
+** TODO Bring my Nix flake over to Asahi
+** TODO Install Zen Browser
+*** TODO [[https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/][With idle tab sweeper]]
+*** TODO With 1Password
+* PROJ Proton :Computer:
+** TODO Figure out message filtering for Proton Mail
+* PROJ CL ZF arithmetic :Computer:
+** TODO Make/find "set" object/struct in zf.lisp
+Abstract interface enabling set operations:
+- [ ] Test membership
+- [ ] Add/remove element
+- [ ] Union
+- [ ] Intersection
+- [ ] Difference
+- [ ] Symmetric difference (XOR)
+Should allow things like sets containing themselves / sets containing everything
+* PROJ CL Lambda Calculus BS :Computer:
+** TODO Make custom "lambda" object/struct for lambda.lisp
+Use macros for more flexibility with function inputs - should be easily able to do things like PLUS * PLUS and end up with a 4-arity function

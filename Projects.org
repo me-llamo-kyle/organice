@@ -5,7 +5,6 @@
 ** TODO Find good time in schedule for regular climbing/workout :Computer:
 ** TODO Find/order power cable for record player :Computer:
 ** TODO Look for water filter replacements (probably in basement somewhere) :Home:
-** DONE Bathe Ms. Puppy :Home:
 ** TODO Check for Aires MR review "requests" :Work:
    DEADLINE: <2026-06-29 Mon +1w>
    :PROPERTIES:
@@ -13,14 +12,15 @@
    :END:
 - State "DONE"       from "TODO"       [2026-06-22 Mon 15:50]
 - State "DONE"       from "TODO"       [2026-06-17 Wed 14:14]
-** WAIT [[https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVZKFShqgpxKPhRDQKnWCJvg][Projector]]
 ** TODO Cancel Fox One
    DEADLINE: <2026-07-15 Wed>
 ** TODO Listen to new Strokes album
-   DEADLINE: <2026-06-24 Wed>
+   DEADLINE: <2026-07-24 Fri>
 ** TODO Liquidate money for Anne's credit card :Computer:
 10k
 ** TODO Find lampshade :Home:Computer:
+** TODO Talk to Andrew about unitary perturbation stuff :Work:
+DEADLINE: <2026-06-29 Mon>
 * PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
 - Talk - they'll want to see how you communicate with experimentalists/everyone
@@ -28,7 +28,6 @@
 ** WAIT Next interview steps
    DEADLINE: <2026-06-29 Mon>
 ** TODO Find Rigetti papers to read
-** DONE Send follow-up email
 * PROJ Set up habit tracker :Computer:
 - Brushing Asher's teeth
 - Flea tick heartworm
@@ -51,25 +50,31 @@
 - Go through mail
 ** TODO Look at Organice's habit tracker tutorial again
 *** TODO Then figure out how to use it in regular org mode
-* PROJ Plan camping trip :Computer:
+* PROJ Camping Trip :Computer:
+SCHEDULED: <2026-08-28 Fri>--<2026-08-30 Sun>
+LOCATION: Shackleford Banks
+[[https://docs.google.com/document/d/1M5FSvqyBXA9tbLYpV6EOMGq9g9krAj3tq0WsO3zutRI/edit?tab=t.0][Google Doc]]
+
 ** WAIT Get Grant & Ford's availability
-   SCHEDULED: <2026-06-24 Wed>
-** WAIT Decide on date and location
+** DONE Decide on date and location
+
+
 * PROJ Iceland prep :Computer:
-  SCHEDULED: <2026-07-08 Wed>
-** Dates: <2026-07-08 Wed>--<2026-07-17 Fri>:Computer:
+  SCHEDULED: <2026-07-08 Wed--<2026-07-17 Fri>>
 ** TODO Book rental car for Iceland :Computer:
    DEADLINE: <2026-06-23 Tue>
 ** TODO Figure out what I need to buy still
 - [ ] Rain pants
 - [ ] Long johns
+- [ ] Bathing suit
+- [ ] Hiking boots
 ** DONE Board boochie for Iceland :Computer:
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
    :LOGBOOK:
    CLOCK: [2026-06-22 Mon 16:26]--[2026-06-22 Mon 16:51] =>  0:25
    :END:
-** TODO [#A] [[https://blog.jethro.dev/posts/org_mode_workflow_preview/][Jethro's Org Mode workflow]]
+** DONE [#A] [[https://blog.jethro.dev/posts/org_mode_workflow_preview/][Jethro's Org Mode workflow]]
    :LOGBOOK:
    CLOCK: [2026-06-24 Wed 16:39]--[2026-06-24 Wed 16:40] =>  0:01
    CLOCK: [2026-06-24 Wed 16:38]--[2026-06-24 Wed 16:39] =>  0:01
@@ -77,62 +82,70 @@
 Author of Org Roam
 ** PROJ [[https://www.orgroam.com/manual.html][Org Roam]]
 *** TODO Read through manual
+*** TODO Copy over notes from Notes.org
 *** TODO Take some notes from [[*\[\[https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj\]\[Zaiste Doomcasts\]\]][Zaiste Doomcasts]]
 *** TODO Watch [[https://www.youtube.com/watch?v=DbsAQSIKQXk][No Boilerplate's Obsidian videos]] for inspo
-** PROJ [[https://desmondrivet.com/2023/12/05/gtd-org-mode][Fancy Org Mode Setup]]
-*** TODO Custom org-todo keywords :Home:
-#+begin_src elisp
-(setq org-todo-keywords
-      '((sequence "TODO(t)" "WAIT(w)" "PROJ(p)" "|" "DONE(d)" "CANC(c)")
-        ))
-#+end_src
-**** TODO At Home :Home:
-**** TODO At Work :Work:
 ** TODO Finish [[https://organice.200ok.ch/sample][Organice tutorial]] :Phone:
 ** PROJ Org Capture
 *** TODO Set up capture templates
-- Inbox
-- Project
+**** DONE Inbox
+**** TODO Quick note (into Org Roam)
+**** TODO Link w/ [[*\[\[https://blog.jethro.dev/posts/org_mode_workflow_preview/\]\[Jethro's Org Mode workflow\]\]][org-protocol]]
 *** TODO Make sure that's working on Organice
 ** PROJ Org Agenda
-*** TODO Find another tutorial about it
-*** TODO Look into org-super-agenda
+*** DONE Find another tutorial about it
 *** TODO How to format times as 12hr times
 ** PROJ Org Journal
 *** TODO Set up journal directory to be synced
 ** PROJ Org crypt
-Keep personal notes/journal encrypted
 *** TODO Figure out how to use
-** PROJ How to set up reading list?
-*** GTD book
-*** Joy of Abstraction
-*** Bullshit Jobs
+
+1. Add the flag:
+   #+begin_src elisp
+;; init.el
+(org +crypt)
+   #+end_src
+
+2. Configure Encryption Method
+By default, Org Crypt looks for a specific GPG public key. If you prefer a simple password (symmetric encryption), you must specify this in your  file. [1, 8, 9]
+Open config and add: [10, 11]
+#+begin_src elisp
+;; config.el
+(after! org-crypt
+  (setq org-crypt-key nil))
+#+end_src
+(Note: If you want to use a specific GPG key instead, change  to your key's email address or ID string). [8, 12]
+3. Encrypting Your Notes
+Org Crypt works inline using tags.
+
+ 1. Create a heading in an org file and assign it the :crypt: tag:
+ 2. Save the file.
+ 3. Doom Emacs will automatically intercept the save, prompt you for a passphrase in the minibuffer, and mask the text. It will look like this: [1, 13, 14, 15, 16]
+
+4. Decrypting and Keybindings
+The text will remain encrypted on your hard drive. To read or edit it, place your cursor on the headline and manually call the decrypt command:
+- M-x org-decrypt-entry
+- M-x org-encrypt-entry
+
+  Nice keybindings:
+  #+begin_src elisp
+(map! :map org-mode-map
+      :localleader
+      :desc "Decrypt entry" "d" #'org-decrypt-entry
+      :desc "Encrypt entry" "e" #'org-encrypt-entry)
+  #+end_src
+
 ** TODO Turn off word suggestions in org/text modes
 ** TODO Install LaTeX and other packages necessary for LaTeX preview in org mode :Home:
-** TODO Check out [[https:/orgro.org][Orgro]] :Phone:
 ** TODO Check out [[https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962][beorg]] :Phone:
-** https://lists.gnu.org/archive/html/emacs-orgmode/2007-12/msg00281.html
-#+begin_quote
-One reason people try out GTD is because they want to get more work
-done, because they feel they are drowning in a sea of information,
-emails, projects etc, and want to get it all under control.  It is
-therefore an exquisite irony that some of these people then spend half
-their time surfing the net to try to find out how to do GTD better!
-#+end_quote
-** TODO How to hide org mode formatting stuff (like /italic/ slashes) :Computer:
+** TODO Look into org-appear
+Allows you to hide emphasis markers until you move the cursor over them
+/Entered on/ [2026-06-24 Wed 16:09]
+** TODO Look into mu4e and capturing emails
+/Entered on/ [2026-06-24 Wed 16:16]
 * PROJ Doctor appts :Computer:
 ** TODO Schedule doctor's appt :Computer:
 ** TODO Schedule eye exam :Computer:
-** TODO Look into transferring meds :Computer:
-** TODO Look into ADHD treatment through Kaiser :Computer:
-- Apparently it's not so straightforward
-* PROJ Asahi Linux Setup :Computer:
-** TODO Bring my Nix flake over to Asahi
-** TODO Install Zen Browser
-*** TODO [[https://addons.mozilla.org/en-US/firefox/addon/idle-tab-sweeper/][With idle tab sweeper]]
-*** TODO With 1Password
-* PROJ Proton :Computer:
-** TODO Figure out message filtering for Proton Mail
 * PROJ Kitchen setup :Home:
 ** TODO Bring up last of kitchen stuff from basement
 ** PROJ Reason cast iron pan
@@ -147,37 +160,24 @@ their time surfing the net to try to find out how to do GTD better!
 ** TODO Clear out nest in light fixture
 * PROJ Gardening :Yard:
 ** TODO When/where to move hostas :Anne:
+DEADLINE: <2026-07-04 Sat>
 ** TODO Decide where to put tree :Anne:
+DEADLINE: <2026-07-04 Sat>
 ** TODO When/where to plant Jersey Tea bush :Anne:
+DEADLINE: <2026-07-04 Sat>
 * PROJ Spray for ticks :Yard:
-** TODO Figure out when to spray :Anne:
+** TODO Spray for ticks while Anne is gone
 * PROJ Spray Pachysandra :Yard:
-** TODO Figure out when to spray :Anne:
+** TODO Spray while Anne is gone
 * PROJ Crafting Interpreters :Computer:
 ** TODO Recall state of cLox
 * PROJ Fix PC freezing issue :Home:
+** TODO Defrag PC
 ** TODO Look up why PC might be freezing
-* PROJ Emacs AI setup :Computer:
-** TODO Read tutorial/configuration for gptel
-* PROJ Portable Doom Config :Computer:
-** TODO Set up repo for Doom config
 * PROJ Fix sink
 ** TODO Look up how to fix sink
-* PROJ CL ZF arithmetic :Computer:
-** TODO Make/find "set" object/struct in zf.lisp
-Abstract interface enabling set operations:
-- [ ] Test membership
-- [ ] Add/remove element
-- [ ] Union
-- [ ] Intersection
-- [ ] Difference
-- [ ] Symmetric difference (XOR)
-Should allow things like sets containing themselves / sets containing everything
-* PROJ CL Lambda Calculus BS :Computer:
-** TODO Make custom "lambda" object/struct for lambda.lisp
-Use macros for more flexibility with function inputs - should be easily able to do things like PLUS * PLUS and end up with a 4-arity function
 * PROJ Hang plant shelf & coffee bag
-** TODO Get stuff at [[*Home Depot][Home Depot]]
+** TODO Pick date to do it when Asher is at camp
 * PROJ complete_subspace :Work:
 Add an eigenstate whenever there's an avoided crossing out of the subspace
 Or just "track" initial subspace
@@ -222,54 +222,25 @@ Search each rank individually, then take min index
 ** DONE Dog food
 ** DONE Paper towels
 * PROJ Target :Shopping:
-** TODO Loop earplugs (aisle H31)
+** DONE Loop earplugs (aisle H31)
 * PROJ Howl :Shopping:
 * PROJ Home Depot :Shopping:
-** DONE Hammer drill
-** DONE Impact driver
-** DONE Masonry drill bits
-** DONE Masonry screws
-** DONE Bathroom lightbulb
+** TODO Level
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
-* PROJ Circuitizer papers :Work:
-** DONE Read through statics paper
-** DONE Read through dynamics paper
-** DONE Fix typo in dynamics appendix
-* PROJ Yogurt on a tombstone
-** Outline
-- Tuesday night in Baltimore, 165ml of whiskey deep
-- Gf took the car to hang out with friends, then texted me asking for ice cream from the grocery store
-- I really didn't want to, but she's PMSing and I felt like I couldn't say no (sex issues, she needs me to be supportive)
-- Walked 20 min both ways to get ice cream
-- Found out later she forgot she had my car
-- At first I felt annoyed that she couldn't do it her damn self
-- But really just mad at myself for not feeling like I could say no to her
-- She could get angry, and I didn't want to have her angry with me
-- Throwing the mug - but that was years ago and we worked it out, sort of
-- She's from the midwest, people there would probably do this type of shit for each other out of guilt of saying no (but really I'm the one feeling guilty)
-- Decided to surpress the feeling as I had already said yes and was nearly there
-- Crossed a five(four)-lane road, then had to keep my head down and walk past a screaming tweaker (actually just a lady minding her own biz)
-- Got myself nice cheese sticks and yogurt, might as well treat myself if I'm already here (ANNOYED)
-- They didn't even have the right kind of ice cream. Told her "They didn't have Cookies & Creme, I'm getting you Milk and Cookies." I texted nicely, but felt much more annoyed
-- On the way back I felt disrespected, my relaxing time not worth as much as her time with friends
-- How would she feel if I asked her to walk 20 min both ways to get her something (incredibly upset)
-- Wouldn't be an issue if she weren't so broke and couldn't afford her own damn car
-- Or if she wouldn't ask me to do something that she couldn't easily do for her goddamn self
-- But most of all wouldn't be an issue if I had some fucking spine
-- The walk went past a graveyard and I (nearly) in a fit of anger threw my yogurt over the fence, where it hit a gravestone
-- Immediately sobered up and sprinted down the street
-- No one was around, so I got to spend the rest of the walk thinking about what I'd done and feeling embarassed (I sure hope hell isn't real, because I'm definitely going there)
-- Eventually she texts that she's on her way home, and "Oh shit I forgot I had the car"
-- I could've just reminded her of that and not done any of this
-- Immediately start to feel bad about my attitude as well as defiling a grave
-- Eventually she gets home, apologizes, says she feels like a dingus
-- 
-- ???
-** Themes
-- Boundaries, especially for men with gfs
-- How to express emotions like anger without veering into toxic masculinity
-- Balance of self-respect and caring for another
-- How does the reveal at the end change the context of the whole interaction?
-- To what degree is the narrator an asshole? How much does he have a right to be angry?
-- Why couldn't he have just said no in the first place?
+* PROJ Create Doom config repo / dotfiles repo
+** TODO Make gitlab repo and upload my .doom.d
+** TODO Look into GNU Stow / Nix home manager
+** TODO Literate Doom config
+You're about at the tipping point where it's going to keep getting more and more involved
+
+/Entered on/ [2026-06-24 Wed 16:51]
+** TODO Fix org mode config
+I think some things need to be set after org loads, but I can't figure out what
+/Entered on/ [2026-06-27 Sat 19:19]
+* PROJ extend_subspace :Work:
+Combine subspaces at adjacent timepoints
+Can use derived error metric to determine how good the subspace approximation is & adaptively extend
+Might need to look into better method for orthonormalizing MPSes
+** TODO Make new branch for extend_subspace
+** TODO Implement comonadic duplicate method
