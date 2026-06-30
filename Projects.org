@@ -184,13 +184,11 @@ Add an eigenstate whenever there's an avoided crossing out of the subspace
 Or just "track" initial subspace
 ** DONE Make new branch for complete_subspace
 ** DONE Assign complete_subspace ticket to myself
-** TODO Write "accumulate"-style generic function
 :LOGBOOK:
 CLOCK: [2026-06-29 Mon 16:11]--[2026-06-29 Mon 16:59] =>  0:48
 :END:
 ** TODO Write function to detect first small singular value
 Search each rank individually, then take min index
-** TODO Write DistributedSeries class
 ** TODO Write function to calculate another eigenvector if needed
 * PROJ MPO Sum MR :Work:
 ** WAIT Reviewers
@@ -249,4 +247,11 @@ Combine subspaces at adjacent timepoints
 Can use derived error metric to determine how good the subspace approximation is & adaptively extend
 Might need to look into better method for orthonormalizing MPSes
 ** DONE Make new branch for extend_subspace
-** TODO Implement comonadic duplicate method
+* PROJ DistributedSeries :Work:
+Refactoring and simplification of propagate_subspace (again lmao).
+Keeps track of arbitrary localized data split amongst MPI ranks, with ability to easily add more.
+Functorial (mappable) and comonadic, to easily map functions over arbitrary sized local neighborhoods.
+(Not exactly comonadic - map and map_neighborhood will work slightly differently. But it's got comonad vibes)
+** TODO Write tests
+** TODO Write collect_neighborhood
+** TODO Write map_add_neighborhood
