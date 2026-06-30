@@ -1,2 +1,17 @@
 * Risk of rain mod to make it less overstimulating?
 #+title: Inbox
+* IDEA Category theory for quantum compilation
+#+begin_example
+            many functors
+           ------------->
+    U(2^n) -------------> Quantum Circuits
+       |   ------------->      |
+       |                       | eval
+       |-----> U(dyadic) <-----|
+ eval . comp
+ (should be identical no matter what compilation strategy is used)
+#+end_example
+
+Study natural transforms between compilation functors? Initial & Final functors could be useful
+
+/Entered on/ [2026-06-30 Tue 08:12]
