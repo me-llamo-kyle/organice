@@ -20,7 +20,7 @@ Study natural transforms between compilation functors? Initial & Final functors 
 * Bring lemon sticks camping?
 * TODO Get toothpaste
 * Do I have meltdowns?
- If so they would look like going blank and detaching. Causes for meltdowns:
+ If so they would look like going blank and detaching. Shutdown. Causes for meltdowns:
 - Feeling drained
 - Sensory overload
 - Cognitive overload (reading too many wikipages in quick succession)
