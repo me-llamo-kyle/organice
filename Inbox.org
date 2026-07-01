@@ -1,5 +1,6 @@
 * Risk of rain mod to make it less overstimulating?
 so close…
+* Debug SOTS AV Effect Options mod
 * IDEA Category theory for quantum compilation
 #+begin_example
             many functors
