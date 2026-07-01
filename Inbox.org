@@ -21,3 +21,7 @@ Study natural transforms between compilation functors? Initial & Final functors 
 * TODO Get toothpaste
 * Do I have meltdowns?
  If so they would look like going blank and detaching. Causes for meltdowns:
+- Feeling drained
+- Sensory overload
+- Cognitive overload (reading too many wikipages in quick succession)
+Easier to proactively avoid situations than to react in the moment
