@@ -252,6 +252,11 @@ Refactoring and simplification of propagate_subspace (again lmao).
 Keeps track of arbitrary localized data split amongst MPI ranks, with ability to easily add more.
 Functorial (mappable) and comonadic, to easily map functions over arbitrary sized local neighborhoods.
 (Not exactly comonadic - map and map_neighborhood will work slightly differently. But it's got comonad vibes)
+** DONE Change map_add to have functions accept data dicts as input
 ** TODO Write tests
-** TODO Write collect_neighborhood
-** TODO Write map_add_neighborhood
+** DONE Write collect_neighborhood
+2 - 2.5 hrs
+** DONE Write remove_neighbors (like comonad extract)
+1 minute
+** DONE Write map_add_neighborhood
+5 seconds
