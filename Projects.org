@@ -22,6 +22,7 @@
 ** TODO Find lampshade :Home:Computer:
 ** DONE Talk to Andrew about unitary perturbation stuff :Work:
 DEADLINE: <2026-06-29 Mon>
+** TODO Grab keyboard before Iceland trip :Work:
 * PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
 - Talk - they'll want to see how you communicate with experimentalists/everyone
