@@ -70,14 +70,15 @@ LOCATION: Shackleford Banks
 - [ ] Long johns
 - [ ] Bathing suit
 - [ ] Hiking boots
+- [ ] Day pack?
 ** DONE Board boochie for Iceland :Computer:
-** TODO Sign snorkeling waivers
-** TODO Let bank know I'm travelling (pretty sure it's fine)
-** TODO Activate international phone plan (pretty sure it's automatic)
-** TODO Look over Google doc to see if I'm missing anything
+** DONE Sign snorkeling waivers
+** DONE Let bank know I'm travelling (pretty sure it's fine)
+** DONE Activate international phone plan (pretty sure it's automatic)
+** DONE Look over Google doc to see if I'm missing anything
 ** DONE Cancel CSA subscriptions
 ** TODO Water plants before leaving
-** TODO Download Parka pay-for-parking app
+** DONE Download Parka pay-for-parking app
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
    :LOGBOOK:
