@@ -21,7 +21,7 @@
 10k
 ** TODO Find lampshade :Home:Computer:
 ** DONE Talk to Andrew about unitary perturbation stuff :Work:
-DEADLINE: <2026-06-29 Mon>
+   DEADLINE: <2026-06-29 Mon>
 ** TODO Grab keyboard before Iceland trip :Work:
 * PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
@@ -53,7 +53,8 @@ DEADLINE: <2026-06-29 Mon>
 ** TODO Look at Organice's habit tracker tutorial again
 *** TODO Then figure out how to use it in regular org mode
 * PROJ Camping Trip :Computer:
-SCHEDULED: <2026-08-28 Fri>--<2026-08-30 Sun>
+  SCHEDULED: <2026-08-28 Fri>
+--<2026-08-30 Sun>
 LOCATION: Shackleford Banks
 [[https://docs.google.com/document/d/1M5FSvqyBXA9tbLYpV6EOMGq9g9krAj3tq0WsO3zutRI/edit?tab=t.0][Google Doc]]
 
@@ -79,6 +80,7 @@ LOCATION: Shackleford Banks
 ** DONE Cancel CSA subscriptions
 ** DONE Download Parka pay-for-parking app
 ** TODO (Potentially) add extra checked bag to flights
+** TODO Make sure you have enough contacts/other toiletries
 ** TODO Water plants before leaving
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
@@ -171,11 +173,11 @@ Allows you to hide emphasis markers until you move the cursor over them
 ** TODO Clear out nest in light fixture
 * PROJ Gardening :Yard:
 ** TODO When/where to move hostas :Anne:
-DEADLINE: <2026-07-04 Sat>
+   DEADLINE: <2026-07-04 Sat>
 ** TODO Decide where to put tree :Anne:
-DEADLINE: <2026-07-04 Sat>
+   DEADLINE: <2026-07-04 Sat>
 ** TODO When/where to plant Jersey Tea bush :Anne:
-DEADLINE: <2026-07-04 Sat>
+   DEADLINE: <2026-07-04 Sat>
 * PROJ Spray for ticks :Yard:
 ** TODO Spray for ticks while Anne is gone
 * PROJ Spray Pachysandra :Yard:
@@ -194,9 +196,9 @@ Add an eigenstate whenever there's an avoided crossing out of the subspace
 Or just "track" initial subspace
 ** DONE Make new branch for complete_subspace
 ** DONE Assign complete_subspace ticket to myself
-:LOGBOOK:
-CLOCK: [2026-06-29 Mon 16:11]--[2026-06-29 Mon 16:59] =>  0:48
-:END:
+   :LOGBOOK:
+   CLOCK: [2026-06-29 Mon 16:11]--[2026-06-29 Mon 16:59] =>  0:48
+   :END:
 ** TODO Write function to detect first small singular value
 Search each rank individually, then take min index
 ** TODO Write function to calculate another eigenvector if needed
