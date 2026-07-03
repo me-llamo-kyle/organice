@@ -62,7 +62,7 @@ LOCATION: Shackleford Banks
 
 * PROJ Iceland prep :Computer:
   SCHEDULED: <2026-07-08 Wed--<2026-07-17 Fri>>
-** TODO Book rental car for Iceland :Computer:
+** DONE Book rental car for Iceland :Computer:
    DEADLINE: <2026-06-23 Tue>
 ** TODO Figure out what I need to buy still
 - [ ] Rain pants
@@ -70,6 +70,13 @@ LOCATION: Shackleford Banks
 - [ ] Bathing suit
 - [ ] Hiking boots
 ** DONE Board boochie for Iceland :Computer:
+** TODO Sign snorkeling waivers
+** TODO Let bank know I'm travelling (pretty sure it's fine)
+** TODO Activate international phone plan (pretty sure it's automatic)
+** TODO Look over Google doc to see if I'm missing anything
+** DONE Cancel CSA subscriptions
+** TODO Water plants before leaving
+** TODO Download Parka pay-for-parking app
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
    :LOGBOOK:
