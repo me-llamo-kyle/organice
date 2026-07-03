@@ -77,8 +77,9 @@ LOCATION: Shackleford Banks
 ** DONE Activate international phone plan (pretty sure it's automatic)
 ** DONE Look over Google doc to see if I'm missing anything
 ** DONE Cancel CSA subscriptions
-** TODO Water plants before leaving
 ** DONE Download Parka pay-for-parking app
+** TODO (Potentially) add extra checked bag to flights
+** TODO Water plants before leaving
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
    :LOGBOOK:
