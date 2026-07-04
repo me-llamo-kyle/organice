@@ -190,7 +190,7 @@ Allows you to hide emphasis markers until you move the cursor over them
 ** TODO Look up why PC might be freezing
 * PROJ Fix sink                                                        :Home:
 ** TODO Look up how to fix sink
-* PROJ Hang plant shelf & coffee bag
+* PROJ Hang plant shelf & coffee bag                                   :Home:
 ** TODO Pick date to do it when Asher is at camp
 * PROJ complete_subspace :Work:
 Add an eigenstate whenever there's an avoided crossing out of the subspace
