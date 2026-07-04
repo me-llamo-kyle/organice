@@ -73,6 +73,8 @@ LOCATION: Shackleford Banks
 - [ ] Bathing suit
 - [ ] Hiking boots
 - [ ] Day pack?
+
+- [ ] 
 ** DONE Board boochie for Iceland :Computer:
 ** DONE Sign snorkeling waivers
 ** DONE Let bank know I'm travelling (pretty sure it's fine)
