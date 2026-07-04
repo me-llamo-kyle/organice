@@ -188,7 +188,7 @@ Allows you to hide emphasis markers until you move the cursor over them
 * PROJ Fix PC freezing issue :Home:
 ** TODO Defrag PC
 ** TODO Look up why PC might be freezing
-* PROJ Fix sink
+* PROJ Fix sink                                                        :Home:
 ** TODO Look up how to fix sink
 * PROJ Hang plant shelf & coffee bag
 ** TODO Pick date to do it when Asher is at camp
