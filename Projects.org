@@ -68,6 +68,8 @@ LOCATION: Shackleford Banks
    DEADLINE: <2026-06-23 Tue>
 ** TODO Packing list
 - [ ] Chacos
+
+- [ ] 
 *** TODO Figure out what I need to buy still
 - [ ] Rain pants
 - [ ] Long johns
