@@ -66,6 +66,7 @@ LOCATION: Shackleford Banks
   SCHEDULED: <2026-07-08 Wed--<2026-07-17 Fri>>
 ** DONE Book rental car for Iceland :Computer:
    DEADLINE: <2026-06-23 Tue>
+** TODO 
 ** TODO Figure out what I need to buy still
 - [ ] Rain pants
 - [ ] Long johns
