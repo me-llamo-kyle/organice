@@ -85,6 +85,7 @@ LOCATION: Shackleford Banks
 ** DONE Download Parka pay-for-parking app
 ** TODO Get Asher food for two weeks at camp
 ** TODO Park at BWI or Uber?
+If ubering, make sure Asher’s reservation is long enough
 ** TODO (Potentially) add extra checked bag to flights
 ** TODO Make sure you have enough contacts/other toiletries
 ** TODO Refill and pick up Wellbutrin
