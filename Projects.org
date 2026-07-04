@@ -71,7 +71,7 @@ LOCATION: Shackleford Banks
 - [ ] Rain pants
 - [ ] Long johns
 - [ ] Bathing suit
-- [ ] Hiking boots
+- [ ] Hiking boots?
 - [ ] Day pack?
 
 - [ ] Headware (sun hat?)
