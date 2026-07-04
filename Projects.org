@@ -67,6 +67,7 @@ LOCATION: Shackleford Banks
 ** DONE Book rental car for Iceland :Computer:
    DEADLINE: <2026-06-23 Tue>
 ** TODO Packing list
+- [ ] Chacos
 *** TODO Figure out what I need to buy still
 - [ ] Rain pants
 - [ ] Long johns
