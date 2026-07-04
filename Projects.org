@@ -83,6 +83,7 @@ LOCATION: Shackleford Banks
 ** DONE Look over Google doc to see if I'm missing anything
 ** DONE Cancel CSA subscriptions
 ** DONE Download Parka pay-for-parking app
+** TODO 
 ** TODO (Potentially) add extra checked bag to flights
 ** TODO Make sure you have enough contacts/other toiletries
 ** TODO Refill and pick up Wellbutrin
