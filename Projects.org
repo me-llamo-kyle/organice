@@ -69,6 +69,7 @@ LOCATION: Shackleford Banks
 ** TODO Packing list
 - [ ] Chacos
 
+- [ ] Altras
 - [ ] 
 *** TODO Figure out what I need to buy still
 - [ ] Rain pants
