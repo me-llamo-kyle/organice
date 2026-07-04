@@ -72,6 +72,7 @@ LOCATION: Shackleford Banks
 - [ ] Altras
 - [ ] Thyroid
 - [ ] Sunglasses
+- [ ] Sleeping mask
 - [ ] 
 *** TODO Figure out what I need to buy still
 - [ ] Rain pants
