@@ -260,7 +260,7 @@ Search each rank individually, then take min index
 ** DONE Level
 * PROJ CVS :Shopping:
 ** DONE SAM-E
-** TODO L-Tyrosine
+** DONE L-Tyrosine
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
 * PROJ Create Doom config repo / dotfiles repo
