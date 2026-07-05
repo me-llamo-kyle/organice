@@ -238,7 +238,7 @@ Search each rank individually, then take min index
 ** TODO Long johns - Merino Wool!
 ** TODO Bathing suit
 ** TODO Breathable hat
-** TODO Vitamin containers
+** DONE Vitamin containers
 * PROJ PetSmart
 ** TODO Dog food
 ** TODO Probiotic chews
