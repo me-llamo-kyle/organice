@@ -92,6 +92,7 @@ LOCATION: Shackleford Banks
 ** DONE Cancel CSA subscriptions
 ** DONE Download Parka pay-for-parking app
 ** TODO Get Asher food for two weeks at camp
+** TODO Get Asher probiotic
 ** TODO Park at BWI or Uber?
 If ubering, make sure Asher’s reservation is long enough
 ** TODO (Potentially) add extra checked bag to flights
