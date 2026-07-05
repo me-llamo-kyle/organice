@@ -239,6 +239,10 @@ Search each rank individually, then take min index
 ** TODO Bathing suit
 ** TODO Breathable hat
 ** TODO Vitamin containers
+* PROJ PetSmart
+** TODO Dog food
+** TODO Probiotic chews
+** TODO Pupsicle refills
 * PROJ Groceries :Shopping:
 ** TODO Minced ginger
 ** TODO Bell pepper
@@ -247,7 +251,6 @@ Search each rank individually, then take min index
 ** TODO Lo Mein noodles
 ** TODO Soy sauce
 ** TODO Oyster sauce
-** TODO Dog food
 * PROJ Target :Shopping:
 * PROJ Howl :Shopping:
 ** TODO Probiotic
