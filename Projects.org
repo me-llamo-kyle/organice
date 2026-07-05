@@ -250,9 +250,9 @@ Search each rank individually, then take min index
 ** DONE Bell pepper
 ** TODO Shrimp
 ** DONE Coffee
-** TODO Lo Mein noodles
-** TODO Soy sauce
-** TODO Oyster sauce
+** DONE Lo Mein noodles
+** DONE Soy sauce
+** DONE Oyster sauce
 * PROJ Target :Shopping:
 * PROJ Howl :Shopping:
 ** TODO Probiotic
