@@ -240,7 +240,7 @@ Search each rank individually, then take min index
 ** DONE Breathable hat
 ** DONE Vitamin containers
 ** TODO Discounted shoes w gift card
-   DEADLINE: <2026-07-05 Sun>
+   DEADLINE: <2026-07-07 Tue>
 * PROJ PetSmart
 ** DONE Dog food
 ** TODO Probiotic chews
