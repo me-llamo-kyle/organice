@@ -235,9 +235,9 @@ Search each rank individually, then take min index
    SCHEDULED: <2026-06-25 Thu 13:00>
 * PROJ REI
 ** TODO Rain pants
-** TODO Long johns - Merino Wool!
+** DONE Long johns - Merino Wool!
 ** TODO Bathing suit
-** TODO Breathable hat
+** DONE Breathable hat
 ** DONE Vitamin containers
 * PROJ PetSmart
 ** TODO Dog food
