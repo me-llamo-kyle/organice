@@ -246,10 +246,10 @@ Search each rank individually, then take min index
 ** TODO Probiotic chews
 ** TODO Pupsicle refills
 * PROJ Groceries :Shopping:
-** TODO Minced ginger
+** DONE Minced ginger
 ** DONE Bell pepper
 ** TODO Shrimp
-** TODO Coffee
+** DONE Coffee
 ** TODO Lo Mein noodles
 ** TODO Soy sauce
 ** TODO Oyster sauce
