@@ -247,7 +247,7 @@ Search each rank individually, then take min index
 ** TODO Pupsicle refills
 * PROJ Groceries :Shopping:
 ** TODO Minced ginger
-** TODO Bell pepper
+** DONE Bell pepper
 ** TODO Shrimp
 ** TODO Coffee
 ** TODO Lo Mein noodles
