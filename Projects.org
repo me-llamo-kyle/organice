@@ -75,15 +75,14 @@ LOCATION: Shackleford Banks
 - [ ] Sleeping mask
 - [ ] Earplugs
 - [ ] PASSPORT!!!
-*** TODO Figure out what I need to buy still
+** TODO Figure out what I need to buy still
 - [ ] Rain pants
 - [ ] Long johns
 - [ ] Bathing suit
 - [ ] Hiking boots?
   Altras might be fine
-- [ ] Day pack?
-  Shoulder sling backpack might be fine 
 - [ ] Headware (sun hat?)
+  Or just more breathable hat
 ** DONE Board boochie for Iceland :Computer:
 ** DONE Sign snorkeling waivers
 ** DONE Let bank know I'm travelling (pretty sure it's fine)
@@ -234,31 +233,29 @@ Search each rank individually, then take min index
 * PROJ Profiling MPO Sums :Work:
 ** WAIT Check on Tyler's progress
    SCHEDULED: <2026-06-25 Thu 13:00>
+* PROJ REI
+** TODO Rain pants
+** TODO Long johns - Merino Wool!
+** TODO Bathing suit
+** TODO Breathable hat
+** TODO Vitamin containers
 * PROJ Groceries :Shopping:
-** DONE Berries
-** DONE PB
-** DONE Brocolli
-** DONE Sweet potatoes
-** DONE Arugala
-** DONE Hummus
-** DONE Tofu
-** DONE Honey
-** DONE Chickpeas
-** DONE Canned tomatoes
-** DONE My yogurt
-** DONE Coconut milk
-** DONE Leeks
-** DONE Shrooms
-** DONE Pasta
-** DONE Frozen berries
-** DONE Chocolate chips
-** DONE Dog food
-** DONE Paper towels
+** TODO Minced ginger
+** TODO Bell pepper
+** TODO Shrimp
+** TODO Coffee
+** TODO Lo Mein noodles
+** TODO Soy sauce
+** TODO Oyster sauce
+** TODO Dog food
 * PROJ Target :Shopping:
-** DONE Loop earplugs (aisle H31)
 * PROJ Howl :Shopping:
+** TODO Probiotic
 * PROJ Home Depot :Shopping:
 ** TODO Level
+* PROJ CVS :Shopping:
+** TODO SAM-E
+** TODO L-Tyrosine
 * PROJ Date nights/ideas
 ** TODO Find time in schedule for a date night/adventure card :Computer:
 * PROJ Create Doom config repo / dotfiles repo
