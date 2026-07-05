@@ -234,7 +234,7 @@ Search each rank individually, then take min index
 ** WAIT Check on Tyler's progress
    SCHEDULED: <2026-06-25 Thu 13:00>
 * PROJ REI
-** TODO Rain pants
+** DONE Rain pants
 ** DONE Long johns - Merino Wool!
 ** DONE Bathing suit
 ** DONE Breathable hat
