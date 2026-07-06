@@ -285,9 +285,18 @@ Functorial (mappable) and comonadic, to easily map functions over arbitrary size
 (Not exactly comonadic - map and map_neighborhood will work slightly differently. But it's got comonad vibes)
 ** DONE Change map_add to have functions accept data dicts as input
 ** TODO Write tests
+- [X] Adding & removing data
+- [X] Copy
+- [X] Get data
+- [X] map-add
+- [-] collect
+- [ ] remove
+- [ ] map-add-neighbors
 ** DONE Write collect_neighborhood
 2 - 2.5 hrs
 ** DONE Write remove_neighbors (like comonad extract)
 1 minute
 ** DONE Write map_add_neighborhood
 5 seconds
+** TODO Write map and map_neighborhood
+Useful for testing, maybe for others too
