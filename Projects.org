@@ -285,19 +285,31 @@ Keeps track of arbitrary localized data split amongst MPI ranks, with ability to
 Functorial (mappable) and comonadic, to easily map functions over arbitrary sized local neighborhoods.
 (Not exactly comonadic - map and map_neighborhood will work slightly differently. But it's got comonad vibes)
 ** DONE Change map_add to have functions accept data dicts as input
-** TODO Write tests
+** DONE Write tests
 - [X] Adding & removing data
 - [X] Copy
 - [X] Get data
 - [X] map-add
-- [-] collect
-- [ ] remove
-- [ ] map-add-neighbors
+- [X] collect
+- [X] remove
 ** DONE Write collect_neighborhood
 2 - 2.5 hrs
 ** DONE Write remove_neighbors (like comonad extract)
 1 minute
 ** DONE Write map_add_neighborhood
 5 seconds
-** TODO Write map and map_neighborhood
+** DONE Write map and map_neighborhood
 Useful for testing, maybe for others too
+** TODO Write wrapper for exception handling
+Need to raise exceptions on all ranks whenever one rank has an error
+By default MPI will abort and throw out any stack trace
+** TODO Figure out if accumulate_add even makes sense
+Might be better to just have a function for accumulating matrix products rather than trying to write a general method
+** TODO Write mappable functions for propagate_subspace
+*** TODO compute_eigenvectors
+*** TODO compute_overlaps
+*** TODO compute_incremental_props
+**** TODO M2
+**** TODO CF4
+**** TODO PCS
+*** TODO compute_umats
