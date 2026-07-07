@@ -27,10 +27,8 @@ Easier to proactively avoid situations than to react in the moment
 * Maybe bring pancake mix camping?
 * Morning routines
 Structure can be really important/helpful for someone like me. I might actually be a fairly anxious person, and have just gotten really good at faking it and acting like I'm okay with "going with the flow". Try implementing a bit of a morning routine and see how you feel.
-<<<<<<< HEAD
 * TODO Readwise - notes on books and shit
 * TODO Get coffee for babers
-=======
 * TODO Cookwell app
 It's finished!
 /Entered on/ [2026-07-05 Sun 22:37]
@@ -38,4 +36,3 @@ It's finished!
 I mean the original zettelkasten was a bunch of flash cards and filing cabinets...
 * TODO Automate syncing with organice
 Having to use git sync all the time is annoying. Would Dropbox be easier? Or some way to automatically git push/pull?
->>>>>>> d8e0a50 (swag)
