@@ -6,10 +6,11 @@
 ** TODO Find/order power cable for record player :Computer:
 ** TODO Look for water filter replacements (probably in basement somewhere) :Home:
 ** TODO Check for Aires MR review "requests" :Work:
-   DEADLINE: <2026-07-06 Mon +1w>
+   DEADLINE: <2026-07-13 Mon +1w>
    :PROPERTIES:
-   :LAST_REPEAT: [2026-06-29 Mon 11:32]
+   :LAST_REPEAT: [2026-07-07 Tue 15:33]
    :END:
+   - State "DONE"       from "TODO"       [2026-07-07 Tue 15:33]
    - State "DONE"       from "TODO"       [2026-06-29 Mon 11:32]
 - State "DONE"       from "TODO"       [2026-06-22 Mon 15:50]
 - State "DONE"       from "TODO"       [2026-06-17 Wed 14:14]
@@ -22,8 +23,8 @@
 ** TODO Find lampshade :Home:Computer:
 ** DONE Talk to Andrew about unitary perturbation stuff :Work:
    DEADLINE: <2026-06-29 Mon>
-** TODO Grab keyboard before Iceland trip :Work:
-** TODO Grab noise cancelling headphones before trip :Work:
+** KILL Grab keyboard before Iceland trip :Work:
+** DONE Grab noise cancelling headphones before trip :Work:
 * PROJ Rigetti :Computer:
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
 - Talk - they'll want to see how you communicate with experimentalists/everyone
