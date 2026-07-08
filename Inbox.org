@@ -36,3 +36,8 @@ It's finished!
 I mean the original zettelkasten was a bunch of flash cards and filing cabinets...
 * TODO Automate syncing with organice
 Having to use git sync all the time is annoying. Would Dropbox be easier? Or some way to automatically git push/pull?
+* TODO Messing with my config
+- [ ] How to set fill-column wider?
+- [ ] Make current line always centered? Do I even want that?
+- [ ] ORG MODE
+/Entered on/ [2026-07-07 Tue 23:47]
