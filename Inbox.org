@@ -41,3 +41,10 @@ Having to use git sync all the time is annoying. Would Dropbox be easier? Or som
 - [ ] Make current line always centered? Do I even want that?
 - [ ] ORG MODE
 /Entered on/ [2026-07-07 Tue 23:47]
+* TODO Nix git issue???
+
+git commit -m "swag"
+error: insufficient permission for adding an object to repository database .git/objects
+error: Error building trees
+
+/Entered on/ [2026-07-07 Tue 23:56]
