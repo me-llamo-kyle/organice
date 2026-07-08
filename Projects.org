@@ -15,9 +15,9 @@
 - State "DONE"       from "TODO"       [2026-06-22 Mon 15:50]
 - State "DONE"       from "TODO"       [2026-06-17 Wed 14:14]
 ** TODO Cancel Fox One
-   DEADLINE: <2026-07-15 Wed>
+DEADLINE: <2026-07-15 Wed>
 ** TODO Listen to new Strokes album
-   DEADLINE: <2026-07-24 Fri>
+DEADLINE: <2026-07-24 Fri>
 ** TODO Liquidate money for Anne's credit card :Computer:
 10k
 ** TODO Find lampshade :Home:Computer:
@@ -105,39 +105,39 @@ If ubering, make sure Asher’s reservation is long enough
 Boarding at 7:40pm - arrive by 5pm
 ** DONE Add extra checked bag to flights
 ** DONE Double-check boochie dates
-** TODO Fold my clothes
-** TODO Cut tags off of REI stuff
-** TODO Check weather
-** TODO Pack clothes
-- [ ] Chacos
-- [ ] Altras
-- [ ] Wear my blue shoes
+** DONE Fold my clothes
+** DONE Cut tags off of REI stuff
+** DONE Check weather
+** DONE Pack clothes
+- [X] Chacos
+- [X] Altras
+- [X] Wear my blue shoes
 ** TODO Pack backpack
-- [ ] Toiletries
-- [ ] Deodorant
-- [ ] Phone charger
-- [ ] Laptop charger
-- [ ] Supplements
-- [ ] Meds
-- [ ] Melatonin
-- [ ] Laptop (big one :( )
-- [ ] Passport
-- [ ] NC headphones
-- [ ] Earplugs
-- [ ] Eye mask
-- [ ] Yoga toes :)
+- [X] Toiletries
+- [X] Deodorant
+- [X] Phone charger
+- [X] Laptop charger
+- [X] Supplements
+- [X] Meds
+- [X] Melatonin
+- [X] Laptop
+- [X] Passport
+- [X] NC headphones
+- [X] Earplugs
+- [X] Eye mask
+- [X] Yoga toes :)
 ** DONE Pack Anne's stuff
 Already packed?
-** TODO Pack ground coffee for Anne
-** TODO Confirm with Anne that she just needs the orange duffel
-** TODO Pack Asher's stuff
-** TODO Install org roam
-** TODO Sync my Emacs config repo so I can pull and mess w/ it
-** TODO Install Iosevka font on main computer
-** TODO Pull organice repo
-** TODO Make sure you have offline org roam docs
+** DONE Pack ground coffee for Anne
+** DONE Confirm with Anne that she just needs the orange duffel
+** DONE Pack Asher's stuff
+** DONE Install org roam
+** CANC Sync my Emacs config repo so I can pull and mess w/ it
+** CANC Install Iosevka font on main computer
+** CANC Pull organice repo
+** DONE Make sure you have offline org roam docs
 ** DONE Schedule Uber
-** TODO Water plants
+** DONE Water plants
 ** DONE Check into flight
 ** DONE Save boarding pass
 ** DONE Check in w/ car rental

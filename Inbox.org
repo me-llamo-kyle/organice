@@ -28,7 +28,6 @@ Easier to proactively avoid situations than to react in the moment
 * Morning routines
 Structure can be really important/helpful for someone like me. I might actually be a fairly anxious person, and have just gotten really good at faking it and acting like I'm okay with "going with the flow". Try implementing a bit of a morning routine and see how you feel.
 * TODO Readwise - notes on books and shit
-* TODO Get coffee for babers
 * TODO Cookwell app
 It's finished!
 /Entered on/ [2026-07-05 Sun 22:37]
@@ -37,9 +36,10 @@ I mean the original zettelkasten was a bunch of flash cards and filing cabinets.
 * TODO Automate syncing with organice
 Having to use git sync all the time is annoying. Would Dropbox be easier? Or some way to automatically git push/pull?
 * TODO Messing with my config
-- [ ] How to set fill-column wider?
-- [ ] Make current line always centered? Do I even want that?
+- [X] How to set fill-column wider?
 - [ ] ORG MODE
+- [ ] Fix hunspell bs
+- [ ] Literate config
 /Entered on/ [2026-07-07 Tue 23:47]
 * TODO Nix git issue???
 
