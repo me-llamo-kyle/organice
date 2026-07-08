@@ -86,10 +86,15 @@ Figure out what coping strategies/accomodations work best for you and your brain
 * [[https://www.youtube.com/watch?v=XEb89CQJPO4][The cost comes first]]
 First try to do the thing, and when you hit a roadblock then you can look for "content" to help you get around the roadblock
 /Entered on/ [2026-06-28 Sun 17:04]
-* TODO GTD Quote
+* GTD Quote
 #+begin_quote
 In knowledge work ... the task is not given; it has to be determined. 'What are the expected results from this work?' is ... the key question in making knowldedge workers productive. And it is a question that demands risky decisions. There is usually no right answer; there are choices instead. And results have to be clearly specified, if productivity is to be achieved.
 
 --- Peter Drucker (reproduced in GTD)
 #+end_quote
 /Entered on/ [2026-06-29 Mon 08:43]
+* Adderall gave me a mask
+https://www.youtube.com/watch?v=36-K-HW3syc
+Adderall made this kind of "extroverted masking" so much easier. I did it a bit at college parties, but I would always get drained so quickly, and often leave the parties kind of early. But when I started taking Adderall, it gave me so much more energy to put into this kind of masking. I acted more extroverted, more easily sociable - but in hindsight I was largely managing my appearance. I was thinking about how my jokes were landing, how I looked, if I was talking enough or too much, if I had made it sufficiently clear how smart and clever and witty I am.
+
+I've developed a pretty solid mask over time. It would be a mistake to think I should get rid of it entirely, since there are certainly going to be times where masking is unfortunately necessary. But I want to try to do it a bit less, and try to have more interactions where I allow myself to move in odd ways, speak in odd ways, share my inner interests, make less eye contact, not have to think about it so much. The more I can do that, the more energy I'll have for situations where I really do need to mask. Because the whole Adderall situation really ended up teaching me that extroverted masking just isn't sustainable. I think that's a big part of why I burned out so hard at work and got so antisocial with my coworkers - I was just so fucking burned out from forcing myself to be on all the time.

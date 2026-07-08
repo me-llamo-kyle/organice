@@ -77,7 +77,7 @@ LOCATION: Shackleford Banks
 - [ ] Sleeping mask
 - [ ] Earplugs
 - [ ] PASSPORT!!!
-** TODO Figure out what I need to buy still
+** DONE Figure out what I need to buy still
 - [ ] Rain pants
 - [ ] Long johns
 - [ ] Bathing suit
@@ -92,14 +92,58 @@ LOCATION: Shackleford Banks
 ** DONE Look over Google doc to see if I'm missing anything
 ** DONE Cancel CSA subscriptions
 ** DONE Download Parka pay-for-parking app
-** TODO Get Asher food for two weeks at camp
-** TODO Get Asher probiotic
+** DONE Get Asher food for two weeks at camp
+** DONE Get Asher probiotic
 ** TODO Park at BWI or Uber?
 If ubering, make sure Asher’s reservation is long enough
 ** TODO (Potentially) add extra checked bag to flights
-** TODO Make sure you have enough contacts/other toiletries
-** TODO Refill and pick up Wellbutrin
+** DONE Make sure you have enough contacts/other toiletries
+** DONE Refill and pick up Wellbutrin
 ** TODO Water plants before leaving
+* PROJ Final Iceland Checklist
+** DONE Double-check flight info
+Boarding at 7:40pm - arrive by 5pm
+** DONE Add extra checked bag to flights
+** DONE Double-check boochie dates
+** TODO Fold my clothes
+** TODO Cut tags off of REI stuff
+** TODO Check weather
+** TODO Pack clothes
+- [ ] Chacos
+- [ ] Altras
+- [ ] Wear my blue shoes
+** TODO Pack backpack
+- [ ] Toiletries
+- [ ] Deodorant
+- [ ] Phone charger
+- [ ] Laptop charger
+- [ ] Supplements
+- [ ] Meds
+- [ ] Melatonin
+- [ ] Laptop (big one :( )
+- [ ] Passport
+- [ ] NC headphones
+- [ ] Earplugs
+- [ ] Eye mask
+- [ ] Yoga toes :)
+** DONE Pack Anne's stuff
+Already packed?
+** TODO Confirm with Anne that she just needs the orange duffel
+** TODO Pack Asher's stuff
+** TODO Sync my Emacs config repo so I can pull and mess w/ it
+** TODO Pull organice repo
+** TODO Install org roam
+** TODO Make sure you have offline org roam docs
+** DONE Schedule Uber
+** TODO Water plants
+** DONE Check into flight
+** DONE Save boarding pass
+** DONE Check in w/ car rental
+** DONE Find physical Apple card
+** DONE Save hotel address
+Tryggvagata 12,
+101 Reykjavík, Iceland
+** DONE Save offline maps for Iceland
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
    :LOGBOOK:
