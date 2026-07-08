@@ -128,7 +128,7 @@ Boarding at 7:40pm - arrive by 5pm
 - [ ] Yoga toes :)
 ** DONE Pack Anne's stuff
 Already packed?
-** TODO 
+** TODO Pack ground coffee for Anne
 ** TODO Confirm with Anne that she just needs the orange duffel
 ** TODO Pack Asher's stuff
 ** TODO Install org roam
