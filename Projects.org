@@ -130,9 +130,10 @@ Boarding at 7:40pm - arrive by 5pm
 Already packed?
 ** TODO Confirm with Anne that she just needs the orange duffel
 ** TODO Pack Asher's stuff
-** TODO Sync my Emacs config repo so I can pull and mess w/ it
-** TODO Pull organice repo
 ** TODO Install org roam
+** TODO Sync my Emacs config repo so I can pull and mess w/ it
+** TODO Install Iosevka font on main computer
+** TODO Pull organice repo
 ** TODO Make sure you have offline org roam docs
 ** DONE Schedule Uber
 ** TODO Water plants
