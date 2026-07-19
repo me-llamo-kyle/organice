@@ -25,13 +25,34 @@ DEADLINE: <2026-07-24 Fri>
    DEADLINE: <2026-06-29 Mon>
 ** KILL Grab keyboard before Iceland trip :Work:
 ** DONE Grab noise cancelling headphones before trip :Work:
-* PROJ Rigetti :Computer:
+* PROJ Rigetti Interview Prep :Computer:
+** TODO Schedule visit with Navan thingy
+** TODO Schedule haircut
+Don't have to cut it too short, just clean it up a bit
+** TODO See if you have a nice outfit
+If not find time to go buy one
+** PROJ Job Talk
+- Deep dive into technical topic
+- 45 mins + 15 mins for questions
+- Broad audience of device theorists, experimentalists, mathematicians, probably programmers - make sure there's a little something for everyone
+*** TODO Figure out topic
+- Probably grad school work
+- Extend by doing GRAPE simulations of geometric pulses for more realistic transmons?
+*** TODO Draft/outline of presentation slides
+*** TODO Share title talk & abstract
+*** TODO Draw the rest of the fucking owl
+** PROJ Interviews
+- Eyob & Nam Nguyen (topic: Device Theory & Technical Exercises)
+  - Whiteboard questions - kinda like qual exam
+- Ramiro Sagastizabal (topic: Collaboration with Experimentalists)
+- Joey Valery & Abhishek Chakraborty (topic: Software)
+  - They use Python
+  - Need to bring piece of code you're particularly proud of
+  - Judging familiarity with coding practices and calibration/analysis tools (?)
+*** TODO Find Rigetti papers to read
 - Read papers by Eyob and [[https://scholar.google.com/citations?user=oonQr0UAAAAJ&hl=en][Stefano Poletto]]
-- Talk - they'll want to see how you communicate with experimentalists/everyone
-- Whiteboard questions - kinda like qual exam
-** WAIT Next interview steps
-   DEADLINE: <2026-06-29 Mon>
-** TODO Find Rigetti papers to read
+*** TODO Find/write good software
+- Maybe use Jax?
 * PROJ Set up habit tracker :Computer:
 - Brushing Asher's teeth
 - Flea tick heartworm
@@ -62,90 +83,6 @@ LOCATION: Shackleford Banks
 
 ** WAIT Get Grant & Ford's availability
 ** DONE Decide on date and location
-
-
-* PROJ Iceland prep :Computer:
-  SCHEDULED: <2026-07-08 Wed--<2026-07-17 Fri>>
-** DONE Book rental car for Iceland :Computer:
-   DEADLINE: <2026-06-23 Tue>
-** TODO Packing list
-- [ ] Chacos
-
-- [ ] Altras
-- [ ] Thyroid
-- [ ] Sunglasses
-- [ ] Sleeping mask
-- [ ] Earplugs
-- [ ] PASSPORT!!!
-** DONE Figure out what I need to buy still
-- [ ] Rain pants
-- [ ] Long johns
-- [ ] Bathing suit
-- [ ] Hiking boots?
-  Altras might be fine
-- [ ] Headware (sun hat?)
-  Or just more breathable hat
-** DONE Board boochie for Iceland :Computer:
-** DONE Sign snorkeling waivers
-** DONE Let bank know I'm travelling (pretty sure it's fine)
-** DONE Activate international phone plan (pretty sure it's automatic)
-** DONE Look over Google doc to see if I'm missing anything
-** DONE Cancel CSA subscriptions
-** DONE Download Parka pay-for-parking app
-** DONE Get Asher food for two weeks at camp
-** DONE Get Asher probiotic
-** TODO Park at BWI or Uber?
-If ubering, make sure Asher’s reservation is long enough
-** TODO (Potentially) add extra checked bag to flights
-** DONE Make sure you have enough contacts/other toiletries
-** DONE Refill and pick up Wellbutrin
-** TODO Water plants before leaving
-* PROJ Final Iceland Checklist
-** DONE Double-check flight info
-Boarding at 7:40pm - arrive by 5pm
-** DONE Add extra checked bag to flights
-** DONE Double-check boochie dates
-** DONE Fold my clothes
-** DONE Cut tags off of REI stuff
-** DONE Check weather
-** DONE Pack clothes
-- [X] Chacos
-- [X] Altras
-- [X] Wear my blue shoes
-** TODO Pack backpack
-- [X] Toiletries
-- [X] Deodorant
-- [X] Phone charger
-- [X] Laptop charger
-- [X] Supplements
-- [X] Meds
-- [X] Melatonin
-- [X] Laptop
-- [X] Passport
-- [X] NC headphones
-- [X] Earplugs
-- [X] Eye mask
-- [X] Yoga toes :)
-** DONE Pack Anne's stuff
-Already packed?
-** DONE Pack ground coffee for Anne
-** DONE Confirm with Anne that she just needs the orange duffel
-** DONE Pack Asher's stuff
-** DONE Install org roam
-** CANC Sync my Emacs config repo so I can pull and mess w/ it
-** CANC Install Iosevka font on main computer
-** CANC Pull organice repo
-** DONE Make sure you have offline org roam docs
-** DONE Schedule Uber
-** DONE Water plants
-** DONE Check into flight
-** DONE Save boarding pass
-** DONE Check in w/ car rental
-** DONE Find physical Apple card
-** DONE Save hotel address
-Tryggvagata 12,
-101 Reykjavík, Iceland
-** DONE Save offline maps for Iceland
 * PROJ Org Mode / GTD improvements :Computer:
 ** TODO [[https://www.labri.fr/perso/nrougier/GTD/index.html][Rougier's Org Mode GTD]]
    :LOGBOOK:
