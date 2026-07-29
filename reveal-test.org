@@ -1,0 +1,34 @@
+#+title: The Greatest Presentation ever
+#+author: Kyle Connelly
+#+email: connelly.kyle@gmail.com
+
+:REVEAL:
+#+OPTIONS: timestamp:nil toc:nil num:nil reveal_mathjax:t
+#+REVEAL_THEME: serif
+#+REVEAL_TRANS: none
+#+OPTIONS: reveal_width:1300 reveal_height:900
+#+REVEAL_MARGIN: 0.05
+:END:
+
+* The Greatest Presentation ever
+You've never seen anything like it
+* Here's a list
+- Bet
+- You
+- Can't
+- Do
+- This
+* Another slide
+$$ H(t) = \frac{\Omega(t)}{2} \left( \cos \Phi(t) \sigma_x + \sin \Phi(t) \sigma_y \right) + \frac{\Delta(t)}{2} \sigma_z $$
+* This one's got a picture
+#+REVEAL_HTML: <div style="float:left">
+Let's put some information about this picture
+- It's the tangent curve of the tilted circles gate
+- I made it
+- It's fuckin dope
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div style="float:right">
+#+ATTR_HTML: :width 400px
+[[file:C:/Users/N21347/OneDrive - NGC/Pictures/Screenshots/Screenshot 2026-07-29 151909.png]]
+#+REVEAL_HTML: </div>
