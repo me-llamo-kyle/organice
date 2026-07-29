@@ -1,0 +1,118 @@
+#+title: Space Curve Quantum Control Presentation
+#+TODO: SLIDE(s) |
+
+* Moral of the story
+Mapping quantum evolution onto space curves enables understanding the entire solution space and reverse-engineering driving pulses with optimal properties. Space curve formalism starts from the quantum evolution and extracts driving pulses from it - no solving the Schrodinger equation required!
+
+* SLIDE Title slide
+* SLIDE Introduction to the idea - lots of pretty pictures
+* SLIDE "Table of contents" slide
+* SLIDE Overview of quantum optimal control
+Finding control pulses to implement a given gate with certain optimal properties, like:
+- Minimizing error
+  - Quasistatic
+  - Leakage
+- Minimizing gate time
+- Minimizing control bandwidth
+* SLIDE Why does it matter?
+- Faster & higher fidelity physical gates make QEC less expensive
+- Minimized control bandwidth makes implementation easier & higher fidelity
+* SLIDE Infinite dimensional optimization problem
+- A la calculus of variations
+- Necessary: Pontryagin's maximum principle
+- Sufficient: Hamilton-Jacobi-Bellman equation
+- Not feasible for any real problems
+* Common practical techniques
+** Analytical
+*** SLIDE Spin echo & CPMG pulses
+*** SLIDE DRAG
+*** Others?
+** Numerical
+Discretizations of the variational problem
+*** SLIDE GRAPE
+*** SLIDE CRAB
+*** Others?
+** SLIDE All "forward mode" methods
+You start with a control ansatz, then compute resulting gate to see how well it worked
+* SLIDE Space Curve Quantum Control
+- Flips the problem on its head
+- Finding optimal evolution -> drawing a space curve with specific geometric properties
+- "Backwards mode": geometry of the space curve encodes pulse shape information
+* SLIDE Basic 2D example
+** SLIDE H = (Delta + delta)/2 Z + Omega(t)/2 X
+- Minimize quasistatic Z error delta
+** SLIDE Interaction picture + magnus expansion = space curve
+- Eliminating error to first order -> closed space curve
+- Curve length = gate time
+- Curvature = driving pulse
+- Angle between initial and final tangent vector = gate rotation angle
+- Drawing any closed curve -> first order optimal control solution!
+** Examples
+*** SLIDE Spin echo & CPMG
+*** SLIDE Teardrop-like examples from paper
+- Pulse starting & ending at 0 -> initial & final curvature should be zero
+** SLIDE Second order term
+- Second term in Magnus expansion corresponds to signed area swept out by curve
+- Figure-eight-like examples from paper
+* SLIDE 3D case
+** SLIDE First order -> 3D space curve
+- Introduce Frenet-Serret frame, curvature, and torsion
+- Curvature and torsion determine controls (up to Z gauge redundancy)
+** SLIDE Error cancellation conditions work out the same
+- Examples from paper
+* Uses
+** SLIDE Applicable beyond single qubit gates
+** Analytical
+*** SLIDE Can come up with space curves by hand
+*** SLIDE LZ no-go theorem
+*** SLIDE No relation between holonomy & mitigated drive error
+*** SLIDE Quantum speed limits
+** Numerical
+*** SLIDE Can use geometric pulses as seeds for GRAPE/CRAB
+*** SLIDE Use BARQ to numerically optimize space curve ansatz
+** Experimental
+*** SLIDE Show experimental results
+* My contributions
+** SLIDE Doubly robust geometric gates
+*** SLIDE Setup
+- Single qubit gate
+- Mitigate quasistatic dephasing *and* multiplicative control noise
+*** SLIDE First order conditions
+- Dephasing - closed space curve as usual
+- Control - tangent curve sweeps out zero area
+*** SLIDE Handcrafted solution
+- Start with tangent curve, then reparameterize time to close space curve
+- Tilted circles ansatz enables any rotation angle
+- Show pulses and fidelities
+*** SLIDE Explain holonomy myth
+- Commonly believed that zero dynamical phase -> robustness to control noise
+*** SLIDE Debunking holonomy myth
+- Relate dynamical phase to tangent vector
+- Explain that zero dynamical phase is neither necessary nor sufficient to cancel driving
+*** SLIDE Myth busted slide
+** SLIDE Time optimal entangling gates
+*** SLIDE Setup
+- Coupled spin qubits in RWA
+- Yields constant, always-on ZZ interaction + single-qubit drive
+*** SLIDE Space curve
+- Evolving ZZ term -> space curve
+- Torsion = IZ strength = constant
+- Overall displacement = Makhlin invariant (entangling power)
+- Optimal time entangling gate = straight line -> CPHASE
+- For a CX rotation need more complicated curve, but the straighter the better
+*** SLIDE Designing the gate
+- Design constant torsion curves via binormal curve
+- Time optimality -> make space curve as straight as possible
+- Yields CNOT with >99% fidelity
+*** SLIDE Seed for numerical optimization
+- GRAPE seeds - nice initial pulse shapes & near optimum -> minor changes
+- Use with CRAB and Slepian basis to limit pulse bandwidth
+* SLIDE Conclusion
+- SCQC enables reverse-engineering optimal control pulses
+- Geometric picture allows viewing the entire solution space and making general claims
+- Often yields nicer, better-behaved control pulses than straight numerical methods
+
+* Local Variables :noexport:
+# Local Variables:
+# org-todo-keyword-faces: (("SLIDE" . (:foreground "#b5bd68" :weight bold)))
+# End:

@@ -1,0 +1,16 @@
+* Monday, 07/27/2026
+** 23:51 - Rigetti planning
+
+Remember - *procrastinating and stressing are, for better or for worse, part of your process.* You've done this kind of thing before, and it's gonna turn out just fine. Just trust the process, and don't make things more complicated than they need to be.
+
+*** TODO Code - Krylov/Arnoldi solver
+- You've done it before
+- Make fairly generic - arbitrary matvec, inner product, work with tensors
+- Apply generic matrix function f(A)v
+- Write unit tests
+- Can do some work on plane
+*** TODO Presentation - geometric gates
+- Introduce idea - like in Ed's talks
+- Time optimal entangling gates (probably most relevant contribution)
+- Doubly robust gates
+- Try to find old slides
